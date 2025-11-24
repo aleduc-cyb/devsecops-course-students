@@ -1,0 +1,1000 @@
+2025-10-15 15:30:55,097 - Endpoint: add, Inputs: (-80.81, 21.26), IP: 127.0.0.1, HTTP Code: 200, Result: -59.55
+2025-10-15 15:30:55,097 - Endpoint: add, Inputs: (OPl, 88.25), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,104 - Endpoint: subtract, Inputs: (55.09, -41.41), IP: 127.0.0.1, HTTP Code: 200, Result: 96.5
+2025-10-15 15:30:55,145 - Endpoint: add, Inputs: (-20.01, 68.28), IP: 127.0.0.1, HTTP Code: 200, Result: 48.269999999999996
+2025-10-15 15:30:55,152 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,154 - Endpoint: multiply, Inputs: (-56.0, -81.0), IP: 127.0.0.1, HTTP Code: 200, Result: 4536.0
+2025-10-15 15:30:55,162 - Endpoint: add, Inputs: (26.49, 44.0), IP: 127.0.0.1, HTTP Code: 200, Result: 70.49
+2025-10-15 15:30:55,169 - Endpoint: multiply, Inputs: (61.05, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:55,169 - Endpoint: subtract, Inputs: (-78.63, -2.54), IP: 127.0.0.1, HTTP Code: 200, Result: -76.08999999999999
+2025-10-15 15:30:55,178 - Endpoint: subtract, Inputs: (46.91, 8.0), IP: 127.0.0.1, HTTP Code: 200, Result: 38.91
+2025-10-15 15:30:55,182 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,184 - Endpoint: multiply, Inputs: (-7.0, 50.56), IP: 127.0.0.1, HTTP Code: 200, Result: -353.92
+2025-10-15 15:30:55,191 - Endpoint: multiply, Inputs: (-49.0, 93.0), IP: 127.0.0.1, HTTP Code: 200, Result: -4557.0
+2025-10-15 15:30:55,201 - Endpoint: subtract, Inputs: (-35.39, -45.98), IP: 127.0.0.1, HTTP Code: 200, Result: 10.589999999999996
+2025-10-15 15:30:55,202 - Endpoint: multiply, Inputs: (-68.49, -52.19), IP: 127.0.0.1, HTTP Code: 200, Result: 3574.4930999999997
+2025-10-15 15:30:55,214 - Endpoint: add, Inputs: (15.0, 15.0), IP: 127.0.0.1, HTTP Code: 200, Result: 30.0
+2025-10-15 15:30:55,216 - Endpoint: add, Inputs: (-97.76, 27.0), IP: 127.0.0.1, HTTP Code: 200, Result: -70.76
+2025-10-15 15:30:55,216 - Endpoint: multiply, Inputs: (83.65, 20.0), IP: 127.0.0.1, HTTP Code: 200, Result: 1673.0
+2025-10-15 15:30:55,234 - Endpoint: multiply, Inputs: (-16.71, -15.0), IP: 127.0.0.1, HTTP Code: 200, Result: 250.65
+2025-10-15 15:30:55,237 - Endpoint: subtract, Inputs: (-57, O), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,244 - Endpoint: multiply, Inputs: (-66.6, -5.43), IP: 127.0.0.1, HTTP Code: 200, Result: 361.638
+2025-10-15 15:30:55,251 - Endpoint: divide, Inputs: (f, -86.00), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,253 - Endpoint: add, Inputs: (-37.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -37.0
+2025-10-15 15:30:55,261 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,265 - Endpoint: add, Inputs: (-39.0, -86.43), IP: 127.0.0.1, HTTP Code: 200, Result: -125.43
+2025-10-15 15:30:55,270 - Endpoint: divide, Inputs: (-28.0, -78.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.358974358974359
+2025-10-15 15:30:55,274 - Endpoint: subtract, Inputs: (26.72, 90.58), IP: 127.0.0.1, HTTP Code: 200, Result: -63.86
+2025-10-15 15:30:55,282 - Endpoint: subtract, Inputs: (-8.17, 97.38), IP: 127.0.0.1, HTTP Code: 200, Result: -105.55
+2025-10-15 15:30:55,286 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,293 - Endpoint: subtract, Inputs: (92.0, -27.0), IP: 127.0.0.1, HTTP Code: 200, Result: 119.0
+2025-10-15 15:30:55,298 - Endpoint: multiply, Inputs: (-92.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.0
+2025-10-15 15:30:55,305 - Endpoint: divide, Inputs: (31.8, 18.25), IP: 127.0.0.1, HTTP Code: 200, Result: 1.7424657534246575
+2025-10-15 15:30:55,306 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,317 - Endpoint: add, Inputs: (-82.93, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -82.93
+2025-10-15 15:30:55,322 - Endpoint: multiply, Inputs: (-14.0, -11.1), IP: 127.0.0.1, HTTP Code: 200, Result: 155.4
+2025-10-15 15:30:55,322 - Endpoint: subtract, Inputs: (51.87, -9.56), IP: 127.0.0.1, HTTP Code: 200, Result: 61.43
+2025-10-15 15:30:55,333 - Endpoint: divide, Inputs: (-63.99, 84.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.7617857142857143
+2025-10-15 15:30:55,333 - Endpoint: multiply, Inputs: (-56.27, 18.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1012.86
+2025-10-15 15:30:55,340 - Endpoint: multiply, Inputs: (-26.0, 75.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1950.0
+2025-10-15 15:30:55,346 - Endpoint: add, Inputs: (47.0, -76.0), IP: 127.0.0.1, HTTP Code: 200, Result: -29.0
+2025-10-15 15:30:55,351 - Endpoint: multiply, Inputs: (44.2, -19.33), IP: 127.0.0.1, HTTP Code: 200, Result: -854.386
+2025-10-15 15:30:55,357 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,360 - Endpoint: multiply, Inputs: (-84.0, -85.22), IP: 127.0.0.1, HTTP Code: 200, Result: 7158.48
+2025-10-15 15:30:55,368 - Endpoint: add, Inputs: (79.0, -40.2), IP: 127.0.0.1, HTTP Code: 200, Result: 38.8
+2025-10-15 15:30:55,370 - Endpoint: add, Inputs: (-22.69, -9.32), IP: 127.0.0.1, HTTP Code: 200, Result: -32.010000000000005
+2025-10-15 15:30:55,377 - Endpoint: divide, Inputs: (-34.75, 87.5), IP: 127.0.0.1, HTTP Code: 200, Result: -0.39714285714285713
+2025-10-15 15:30:55,383 - Endpoint: divide, Inputs: (-17.0, -74.95), IP: 127.0.0.1, HTTP Code: 200, Result: 0.2268178785857238
+2025-10-15 15:30:55,383 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,394 - Endpoint: add, Inputs: (-27.87, 88.03), IP: 127.0.0.1, HTTP Code: 200, Result: 60.16
+2025-10-15 15:30:55,401 - Endpoint: divide, Inputs: (-61.0, -5.0), IP: 127.0.0.1, HTTP Code: 200, Result: 12.2
+2025-10-15 15:30:55,407 - Endpoint: multiply, Inputs: (-38.86, 73.32), IP: 127.0.0.1, HTTP Code: 200, Result: -2849.2151999999996
+2025-10-15 15:30:55,413 - Endpoint: divide, Inputs: (39.39, 94.59), IP: 127.0.0.1, HTTP Code: 200, Result: 0.4164287979701871
+2025-10-15 15:30:55,419 - Endpoint: subtract, Inputs: (-48.21, k), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,419 - Endpoint: add, Inputs: (-35.49, 59.25), IP: 127.0.0.1, HTTP Code: 200, Result: 23.759999999999998
+2025-10-15 15:30:55,431 - Endpoint: add, Inputs: (61.12, WNGb), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,435 - Endpoint: subtract, Inputs: (-14.74, -19.82), IP: 127.0.0.1, HTTP Code: 200, Result: 5.08
+2025-10-15 15:30:55,445 - Endpoint: divide, Inputs: (4.0, -36.32), IP: 127.0.0.1, HTTP Code: 200, Result: -0.11013215859030837
+2025-10-15 15:30:55,451 - Endpoint: add, Inputs: (19.55, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 19.55
+2025-10-15 15:30:55,459 - Endpoint: multiply, Inputs: (-20.24, YM), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,464 - Endpoint: divide, Inputs: (-68.95, 77.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.8954545454545455
+2025-10-15 15:30:55,472 - Endpoint: divide, Inputs: (55.17, -9.02), IP: 127.0.0.1, HTTP Code: 200, Result: -6.1164079822616415
+2025-10-15 15:30:55,477 - Endpoint: divide, Inputs: (21.69, -28.02), IP: 127.0.0.1, HTTP Code: 200, Result: -0.7740899357601714
+2025-10-15 15:30:55,482 - Endpoint: add, Inputs: (-66.19, -96.64), IP: 127.0.0.1, HTTP Code: 200, Result: -162.82999999999998
+2025-10-15 15:30:55,484 - Endpoint: divide, Inputs: (13.6, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:55,494 - Endpoint: divide, Inputs: (-14.26, -6.0), IP: 127.0.0.1, HTTP Code: 200, Result: 2.3766666666666665
+2025-10-15 15:30:55,499 - Endpoint: subtract, Inputs: (eX, 19.98), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,505 - Endpoint: subtract, Inputs: (-17.89, SEmW), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,511 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,515 - Endpoint: add, Inputs: (73.37, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 73.37
+2025-10-15 15:30:55,519 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,529 - Endpoint: subtract, Inputs: (13.76, 55.87), IP: 127.0.0.1, HTTP Code: 200, Result: -42.11
+2025-10-15 15:30:55,534 - Endpoint: divide, Inputs: (78.49, 54.53), IP: 127.0.0.1, HTTP Code: 200, Result: 1.4393911608289014
+2025-10-15 15:30:55,540 - Endpoint: divide, Inputs: (-45.41, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:55,546 - Endpoint: add, Inputs: (1.0, -5.69), IP: 127.0.0.1, HTTP Code: 200, Result: -4.69
+2025-10-15 15:30:55,551 - Endpoint: divide, Inputs: (MZp, -50), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,560 - Endpoint: divide, Inputs: (-96, RkV), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,563 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,573 - Endpoint: subtract, Inputs: (4.91, 65.81), IP: 127.0.0.1, HTTP Code: 200, Result: -60.900000000000006
+2025-10-15 15:30:55,578 - Endpoint: subtract, Inputs: (-25.21, 95.0), IP: 127.0.0.1, HTTP Code: 200, Result: -120.21000000000001
+2025-10-15 15:30:55,587 - Endpoint: add, Inputs: (13.79, 89.0), IP: 127.0.0.1, HTTP Code: 200, Result: 102.78999999999999
+2025-10-15 15:30:55,591 - Endpoint: subtract, Inputs: (-67.61, 54.52), IP: 127.0.0.1, HTTP Code: 200, Result: -122.13
+2025-10-15 15:30:55,595 - Endpoint: multiply, Inputs: (-13.41, -19.0), IP: 127.0.0.1, HTTP Code: 200, Result: 254.79
+2025-10-15 15:30:55,601 - Endpoint: subtract, Inputs: (47.0, 12.12), IP: 127.0.0.1, HTTP Code: 200, Result: 34.88
+2025-10-15 15:30:55,607 - Endpoint: divide, Inputs: (-85.0, 49.79), IP: 127.0.0.1, HTTP Code: 200, Result: -1.7071701144808196
+2025-10-15 15:30:55,612 - Endpoint: multiply, Inputs: (62.0, -72.84), IP: 127.0.0.1, HTTP Code: 200, Result: -4516.08
+2025-10-15 15:30:55,617 - Endpoint: multiply, Inputs: (28.0, 38.72), IP: 127.0.0.1, HTTP Code: 200, Result: 1084.1599999999999
+2025-10-15 15:30:55,623 - Endpoint: add, Inputs: (0.23, -67.83), IP: 127.0.0.1, HTTP Code: 200, Result: -67.6
+2025-10-15 15:30:55,628 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,628 - Endpoint: subtract, Inputs: (-97.74, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -97.74
+2025-10-15 15:30:55,628 - Endpoint: divide, Inputs: (B, -73), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,646 - Endpoint: add, Inputs: (82.0, -17.62), IP: 127.0.0.1, HTTP Code: 200, Result: 64.38
+2025-10-15 15:30:55,650 - Endpoint: divide, Inputs: (40.29, S), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,655 - Endpoint: add, Inputs: (-15.0, 96.23), IP: 127.0.0.1, HTTP Code: 200, Result: 81.23
+2025-10-15 15:30:55,657 - Endpoint: divide, Inputs: (96.8, -26.0), IP: 127.0.0.1, HTTP Code: 200, Result: -3.723076923076923
+2025-10-15 15:30:55,666 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,666 - Endpoint: multiply, Inputs: (-84.63, 39.4), IP: 127.0.0.1, HTTP Code: 200, Result: -3334.4219999999996
+2025-10-15 15:30:55,673 - Endpoint: divide, Inputs: (34.99, 76.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.4603947368421053
+2025-10-15 15:30:55,683 - Endpoint: divide, Inputs: (-2.0, 98.1), IP: 127.0.0.1, HTTP Code: 200, Result: -0.020387359836901122
+2025-10-15 15:30:55,688 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,696 - Endpoint: multiply, Inputs: (72, Hfth), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,698 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,706 - Endpoint: subtract, Inputs: (-85.0, 7.05), IP: 127.0.0.1, HTTP Code: 200, Result: -92.05
+2025-10-15 15:30:55,715 - Endpoint: add, Inputs: (8.52, -48.98), IP: 127.0.0.1, HTTP Code: 200, Result: -40.459999999999994
+2025-10-15 15:30:55,722 - Endpoint: multiply, Inputs: (-15.0, -45.36), IP: 127.0.0.1, HTTP Code: 200, Result: 680.4
+2025-10-15 15:30:55,729 - Endpoint: subtract, Inputs: (21.18, 79.74), IP: 127.0.0.1, HTTP Code: 200, Result: -58.559999999999995
+2025-10-15 15:30:55,729 - Endpoint: add, Inputs: (12.61, -73.55), IP: 127.0.0.1, HTTP Code: 200, Result: -60.94
+2025-10-15 15:30:55,729 - Endpoint: add, Inputs: (-77.15, N), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,745 - Endpoint: multiply, Inputs: (82.0, -72.0), IP: 127.0.0.1, HTTP Code: 200, Result: -5904.0
+2025-10-15 15:30:55,749 - Endpoint: subtract, Inputs: (-29.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -29.0
+2025-10-15 15:30:55,755 - Endpoint: divide, Inputs: (I, 92.55), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,762 - Endpoint: subtract, Inputs: (2.35, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 2.35
+2025-10-15 15:30:55,762 - Endpoint: divide, Inputs: (-63.65, 80.01), IP: 127.0.0.1, HTTP Code: 200, Result: -0.7955255593050868
+2025-10-15 15:30:55,769 - Endpoint: divide, Inputs: (-99.0, 15.39), IP: 127.0.0.1, HTTP Code: 200, Result: -6.432748538011696
+2025-10-15 15:30:55,778 - Endpoint: multiply, Inputs: (-38.96, -16.23), IP: 127.0.0.1, HTTP Code: 200, Result: 632.3208000000001
+2025-10-15 15:30:55,782 - Endpoint: add, Inputs: (-54.0, 73.0), IP: 127.0.0.1, HTTP Code: 200, Result: 19.0
+2025-10-15 15:30:55,787 - Endpoint: subtract, Inputs: (-48.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -48.0
+2025-10-15 15:30:55,792 - Endpoint: multiply, Inputs: (26.18, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:55,799 - Endpoint: divide, Inputs: (-12.16, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:55,803 - Endpoint: multiply, Inputs: (54.0, 82.94), IP: 127.0.0.1, HTTP Code: 200, Result: 4478.76
+2025-10-15 15:30:55,808 - Endpoint: multiply, Inputs: (-99.4, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.0
+2025-10-15 15:30:55,812 - Endpoint: multiply, Inputs: (53.81, 6.88), IP: 127.0.0.1, HTTP Code: 200, Result: 370.2128
+2025-10-15 15:30:55,821 - Endpoint: add, Inputs: (-88.34, 88.49), IP: 127.0.0.1, HTTP Code: 200, Result: 0.14999999999999147
+2025-10-15 15:30:55,828 - Endpoint: subtract, Inputs: (-83.49, 19.0), IP: 127.0.0.1, HTTP Code: 200, Result: -102.49
+2025-10-15 15:30:55,833 - Endpoint: subtract, Inputs: (-66.0, 78.0), IP: 127.0.0.1, HTTP Code: 200, Result: -144.0
+2025-10-15 15:30:55,839 - Endpoint: divide, Inputs: (-51.0, -40.37), IP: 127.0.0.1, HTTP Code: 200, Result: 1.2633143423334159
+2025-10-15 15:30:55,844 - Endpoint: multiply, Inputs: (-21.0, -71.13), IP: 127.0.0.1, HTTP Code: 200, Result: 1493.73
+2025-10-15 15:30:55,850 - Endpoint: multiply, Inputs: (28.16, 38.05), IP: 127.0.0.1, HTTP Code: 200, Result: 1071.4879999999998
+2025-10-15 15:30:55,855 - Endpoint: divide, Inputs: (-19.0, 95.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.2
+2025-10-15 15:30:55,862 - Endpoint: multiply, Inputs: (LTVk, 12.60), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,872 - Endpoint: multiply, Inputs: (11.18, b), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,876 - Endpoint: subtract, Inputs: (-38.47, 46.79), IP: 127.0.0.1, HTTP Code: 200, Result: -85.25999999999999
+2025-10-15 15:30:55,895 - Endpoint: divide, Inputs: (-85.0, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:55,912 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,912 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,929 - Endpoint: subtract, Inputs: (-64.49, yqH), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,933 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,942 - Endpoint: subtract, Inputs: (-2.86, -29.44), IP: 127.0.0.1, HTTP Code: 200, Result: 26.580000000000002
+2025-10-15 15:30:55,953 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,955 - Endpoint: add, Inputs: (xKat, 19.56), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:55,965 - Endpoint: multiply, Inputs: (-42.17, 51.01), IP: 127.0.0.1, HTTP Code: 200, Result: -2151.0917
+2025-10-15 15:30:55,969 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:55,973 - Endpoint: multiply, Inputs: (-17.78, 30.0), IP: 127.0.0.1, HTTP Code: 200, Result: -533.4000000000001
+2025-10-15 15:30:55,978 - Endpoint: subtract, Inputs: (-88.19, 38.07), IP: 127.0.0.1, HTTP Code: 200, Result: -126.25999999999999
+2025-10-15 15:30:55,982 - Endpoint: divide, Inputs: (67.0, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:55,988 - Endpoint: subtract, Inputs: (13.61, -58.3), IP: 127.0.0.1, HTTP Code: 200, Result: 71.91
+2025-10-15 15:30:55,990 - Endpoint: add, Inputs: (85.67, 3.08), IP: 127.0.0.1, HTTP Code: 200, Result: 88.75
+2025-10-15 15:30:55,997 - Endpoint: multiply, Inputs: (-37.93, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.0
+2025-10-15 15:30:56,001 - Endpoint: multiply, Inputs: (w, 95.54), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,005 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,012 - Endpoint: add, Inputs: (-55.14, -13.07), IP: 127.0.0.1, HTTP Code: 200, Result: -68.21000000000001
+2025-10-15 15:30:56,018 - Endpoint: subtract, Inputs: (-87.93, -50.0), IP: 127.0.0.1, HTTP Code: 200, Result: -37.93000000000001
+2025-10-15 15:30:56,022 - Endpoint: add, Inputs: (-85.0, 24.62), IP: 127.0.0.1, HTTP Code: 200, Result: -60.379999999999995
+2025-10-15 15:30:56,028 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,033 - Endpoint: divide, Inputs: (-12.38, BC), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,038 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,045 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,050 - Endpoint: multiply, Inputs: (-52.66, -21.97), IP: 127.0.0.1, HTTP Code: 200, Result: 1156.9401999999998
+2025-10-15 15:30:56,055 - Endpoint: subtract, Inputs: (18.1, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 18.1
+2025-10-15 15:30:56,062 - Endpoint: subtract, Inputs: (-25.0, -36.0), IP: 127.0.0.1, HTTP Code: 200, Result: 11.0
+2025-10-15 15:30:56,065 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,069 - Endpoint: multiply, Inputs: (25.18, 27.0), IP: 127.0.0.1, HTTP Code: 200, Result: 679.86
+2025-10-15 15:30:56,073 - Endpoint: add, Inputs: (-12.0, 11.39), IP: 127.0.0.1, HTTP Code: 200, Result: -0.6099999999999994
+2025-10-15 15:30:56,079 - Endpoint: add, Inputs: (47.47, -91.7), IP: 127.0.0.1, HTTP Code: 200, Result: -44.230000000000004
+2025-10-15 15:30:56,086 - Endpoint: add, Inputs: (11.54, 65.47), IP: 127.0.0.1, HTTP Code: 200, Result: 77.00999999999999
+2025-10-15 15:30:56,086 - Endpoint: multiply, Inputs: (57.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:56,086 - Endpoint: subtract, Inputs: (-13.0, -30.17), IP: 127.0.0.1, HTTP Code: 200, Result: 17.17
+2025-10-15 15:30:56,099 - Endpoint: add, Inputs: (-70.3, 59.94), IP: 127.0.0.1, HTTP Code: 200, Result: -10.36
+2025-10-15 15:30:56,105 - Endpoint: subtract, Inputs: (65.0, -76.0), IP: 127.0.0.1, HTTP Code: 200, Result: 141.0
+2025-10-15 15:30:56,109 - Endpoint: multiply, Inputs: (A, 93.89), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,113 - Endpoint: divide, Inputs: (-77.0, -98.65), IP: 127.0.0.1, HTTP Code: 200, Result: 0.7805372529143436
+2025-10-15 15:30:56,117 - Endpoint: subtract, Inputs: (70.14, 77.51), IP: 127.0.0.1, HTTP Code: 200, Result: -7.3700000000000045
+2025-10-15 15:30:56,123 - Endpoint: add, Inputs: (35.42, 71.0), IP: 127.0.0.1, HTTP Code: 200, Result: 106.42
+2025-10-15 15:30:56,127 - Endpoint: add, Inputs: (1.86, 81.15), IP: 127.0.0.1, HTTP Code: 200, Result: 83.01
+2025-10-15 15:30:56,133 - Endpoint: multiply, Inputs: (-49.7, -59.84), IP: 127.0.0.1, HTTP Code: 200, Result: 2974.0480000000002
+2025-10-15 15:30:56,133 - Endpoint: subtract, Inputs: (64.3, 3.0), IP: 127.0.0.1, HTTP Code: 200, Result: 61.3
+2025-10-15 15:30:56,143 - Endpoint: subtract, Inputs: (-33.47, -30.18), IP: 127.0.0.1, HTTP Code: 200, Result: -3.289999999999999
+2025-10-15 15:30:56,148 - Endpoint: add, Inputs: (rTq, 73.55), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,149 - Endpoint: divide, Inputs: (73.0, 76.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.9605263157894737
+2025-10-15 15:30:56,158 - Endpoint: add, Inputs: (-47.89, 39.0), IP: 127.0.0.1, HTTP Code: 200, Result: -8.89
+2025-10-15 15:30:56,169 - Endpoint: multiply, Inputs: (-48.09, -26.99), IP: 127.0.0.1, HTTP Code: 200, Result: 1297.9491
+2025-10-15 15:30:56,175 - Endpoint: divide, Inputs: (8.0, -42.87), IP: 127.0.0.1, HTTP Code: 200, Result: -0.18661068346162818
+2025-10-15 15:30:56,179 - Endpoint: add, Inputs: (-10.84, 43.52), IP: 127.0.0.1, HTTP Code: 200, Result: 32.68000000000001
+2025-10-15 15:30:56,185 - Endpoint: multiply, Inputs: (24.73, -78.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1928.94
+2025-10-15 15:30:56,188 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,197 - Endpoint: multiply, Inputs: (-55.08, 9.75), IP: 127.0.0.1, HTTP Code: 200, Result: -537.03
+2025-10-15 15:30:56,204 - Endpoint: divide, Inputs: (68.37, 19.96), IP: 127.0.0.1, HTTP Code: 200, Result: 3.4253507014028055
+2025-10-15 15:30:56,209 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,216 - Endpoint: multiply, Inputs: (63.36, -52.78), IP: 127.0.0.1, HTTP Code: 200, Result: -3344.1408
+2025-10-15 15:30:56,223 - Endpoint: divide, Inputs: (-78, Xp), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,223 - Endpoint: add, Inputs: (-27.0, -86.0), IP: 127.0.0.1, HTTP Code: 200, Result: -113.0
+2025-10-15 15:30:56,231 - Endpoint: multiply, Inputs: (90.45, Mqgj), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,235 - Endpoint: add, Inputs: (-6.71, 14.0), IP: 127.0.0.1, HTTP Code: 200, Result: 7.29
+2025-10-15 15:30:56,239 - Endpoint: multiply, Inputs: (-16, X), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,245 - Endpoint: subtract, Inputs: (22.45, -92.0), IP: 127.0.0.1, HTTP Code: 200, Result: 114.45
+2025-10-15 15:30:56,250 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,253 - Endpoint: divide, Inputs: (-62.0, 67.72), IP: 127.0.0.1, HTTP Code: 200, Result: -0.9155345540460721
+2025-10-15 15:30:56,259 - Endpoint: subtract, Inputs: (p, -97.30), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,263 - Endpoint: add, Inputs: (-35.0, -87.37), IP: 127.0.0.1, HTTP Code: 200, Result: -122.37
+2025-10-15 15:30:56,268 - Endpoint: divide, Inputs: (10.45, 66.57), IP: 127.0.0.1, HTTP Code: 200, Result: 0.1569776175454409
+2025-10-15 15:30:56,273 - Endpoint: add, Inputs: (-25.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -25.0
+2025-10-15 15:30:56,278 - Endpoint: add, Inputs: (92.45, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 92.45
+2025-10-15 15:30:56,282 - Endpoint: divide, Inputs: (-32.03, k), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,282 - Endpoint: subtract, Inputs: (dR, 78.83), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,290 - Endpoint: add, Inputs: (26.31, bbHn), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,299 - Endpoint: subtract, Inputs: (1.82, 71.36), IP: 127.0.0.1, HTTP Code: 200, Result: -69.54
+2025-10-15 15:30:56,303 - Endpoint: divide, Inputs: (12.0, -11.15), IP: 127.0.0.1, HTTP Code: 200, Result: -1.0762331838565022
+2025-10-15 15:30:56,308 - Endpoint: add, Inputs: (-2.0, 16.18), IP: 127.0.0.1, HTTP Code: 200, Result: 14.18
+2025-10-15 15:30:56,314 - Endpoint: subtract, Inputs: (-86.47, -33.35), IP: 127.0.0.1, HTTP Code: 200, Result: -53.12
+2025-10-15 15:30:56,318 - Endpoint: multiply, Inputs: (82.13, 66.75), IP: 127.0.0.1, HTTP Code: 200, Result: 5482.1775
+2025-10-15 15:30:56,324 - Endpoint: multiply, Inputs: (64.93, 14.16), IP: 127.0.0.1, HTTP Code: 200, Result: 919.4088000000002
+2025-10-15 15:30:56,330 - Endpoint: add, Inputs: (mh, 92.34), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,334 - Endpoint: subtract, Inputs: (38.07, 96.0), IP: 127.0.0.1, HTTP Code: 200, Result: -57.93
+2025-10-15 15:30:56,338 - Endpoint: divide, Inputs: (39.1, 7.0), IP: 127.0.0.1, HTTP Code: 200, Result: 5.585714285714286
+2025-10-15 15:30:56,345 - Endpoint: subtract, Inputs: (86.02, -52.79), IP: 127.0.0.1, HTTP Code: 200, Result: 138.81
+2025-10-15 15:30:56,350 - Endpoint: divide, Inputs: (-12.16, -53.97), IP: 127.0.0.1, HTTP Code: 200, Result: 0.22531035760607745
+2025-10-15 15:30:56,356 - Endpoint: add, Inputs: (-91.89, 87.57), IP: 127.0.0.1, HTTP Code: 200, Result: -4.320000000000007
+2025-10-15 15:30:56,359 - Endpoint: add, Inputs: (78.66, -7.31), IP: 127.0.0.1, HTTP Code: 200, Result: 71.35
+2025-10-15 15:30:56,364 - Endpoint: subtract, Inputs: (-59.0, 10.0), IP: 127.0.0.1, HTTP Code: 200, Result: -69.0
+2025-10-15 15:30:56,365 - Endpoint: add, Inputs: (59.62, -90.95), IP: 127.0.0.1, HTTP Code: 200, Result: -31.330000000000005
+2025-10-15 15:30:56,370 - Endpoint: divide, Inputs: (11.0, -67.26), IP: 127.0.0.1, HTTP Code: 200, Result: -0.16354445435622955
+2025-10-15 15:30:56,378 - Endpoint: multiply, Inputs: (60.75, -52.92), IP: 127.0.0.1, HTTP Code: 200, Result: -3214.8900000000003
+2025-10-15 15:30:56,385 - Endpoint: subtract, Inputs: (53.9, -82.42), IP: 127.0.0.1, HTTP Code: 200, Result: 136.32
+2025-10-15 15:30:56,389 - Endpoint: divide, Inputs: (-21.54, 55.27), IP: 127.0.0.1, HTTP Code: 200, Result: -0.38972317713045046
+2025-10-15 15:30:56,396 - Endpoint: add, Inputs: (59.83, -92.61), IP: 127.0.0.1, HTTP Code: 200, Result: -32.78
+2025-10-15 15:30:56,399 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,408 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,410 - Endpoint: multiply, Inputs: (16.0, 11.0), IP: 127.0.0.1, HTTP Code: 200, Result: 176.0
+2025-10-15 15:30:56,416 - Endpoint: add, Inputs: (-52.0, 6.51), IP: 127.0.0.1, HTTP Code: 200, Result: -45.49
+2025-10-15 15:30:56,420 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,425 - Endpoint: subtract, Inputs: (-34.0, 93.67), IP: 127.0.0.1, HTTP Code: 200, Result: -127.67
+2025-10-15 15:30:56,429 - Endpoint: subtract, Inputs: (7.0, 77.75), IP: 127.0.0.1, HTTP Code: 200, Result: -70.75
+2025-10-15 15:30:56,433 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,439 - Endpoint: subtract, Inputs: (34.0, 43.0), IP: 127.0.0.1, HTTP Code: 200, Result: -9.0
+2025-10-15 15:30:56,442 - Endpoint: subtract, Inputs: (-33.74, 68.99), IP: 127.0.0.1, HTTP Code: 200, Result: -102.72999999999999
+2025-10-15 15:30:56,447 - Endpoint: multiply, Inputs: (59.65, OQ), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,451 - Endpoint: multiply, Inputs: (18.6, 73.52), IP: 127.0.0.1, HTTP Code: 200, Result: 1367.472
+2025-10-15 15:30:56,455 - Endpoint: multiply, Inputs: (-72.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.0
+2025-10-15 15:30:56,455 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,465 - Endpoint: subtract, Inputs: (80.56, -86.0), IP: 127.0.0.1, HTTP Code: 200, Result: 166.56
+2025-10-15 15:30:56,469 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,475 - Endpoint: multiply, Inputs: (-11.6, -99.78), IP: 127.0.0.1, HTTP Code: 200, Result: 1157.4479999999999
+2025-10-15 15:30:56,480 - Endpoint: subtract, Inputs: (-56.0, -19.53), IP: 127.0.0.1, HTTP Code: 200, Result: -36.47
+2025-10-15 15:30:56,488 - Endpoint: subtract, Inputs: (13.0, -34.0), IP: 127.0.0.1, HTTP Code: 200, Result: 47.0
+2025-10-15 15:30:56,492 - Endpoint: subtract, Inputs: (89.65, 5.99), IP: 127.0.0.1, HTTP Code: 200, Result: 83.66000000000001
+2025-10-15 15:30:56,501 - Endpoint: multiply, Inputs: (74.0, 28.0), IP: 127.0.0.1, HTTP Code: 200, Result: 2072.0
+2025-10-15 15:30:56,505 - Endpoint: subtract, Inputs: (78.46, 7.0), IP: 127.0.0.1, HTTP Code: 200, Result: 71.46
+2025-10-15 15:30:56,505 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,516 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,518 - Endpoint: subtract, Inputs: (81.67, 9.93), IP: 127.0.0.1, HTTP Code: 200, Result: 71.74000000000001
+2025-10-15 15:30:56,518 - Endpoint: add, Inputs: (65.17, 58.22), IP: 127.0.0.1, HTTP Code: 200, Result: 123.39
+2025-10-15 15:30:56,530 - Endpoint: divide, Inputs: (-96.96, -95.29), IP: 127.0.0.1, HTTP Code: 200, Result: 1.0175254486304963
+2025-10-15 15:30:56,532 - Endpoint: add, Inputs: (-32.0, -50.11), IP: 127.0.0.1, HTTP Code: 200, Result: -82.11
+2025-10-15 15:30:56,538 - Endpoint: subtract, Inputs: (14.6, -41.62), IP: 127.0.0.1, HTTP Code: 200, Result: 56.22
+2025-10-15 15:30:56,544 - Endpoint: divide, Inputs: (11.15, -58.95), IP: 127.0.0.1, HTTP Code: 200, Result: -0.18914334181509754
+2025-10-15 15:30:56,549 - Endpoint: add, Inputs: (-32.57, 86.17), IP: 127.0.0.1, HTTP Code: 200, Result: 53.6
+2025-10-15 15:30:56,554 - Endpoint: add, Inputs: (vzK, 97), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,557 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,563 - Endpoint: subtract, Inputs: (-60.97, XatY), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,568 - Endpoint: multiply, Inputs: (46.28, 83.1), IP: 127.0.0.1, HTTP Code: 200, Result: 3845.868
+2025-10-15 15:30:56,572 - Endpoint: add, Inputs: (-99.53, 40.96), IP: 127.0.0.1, HTTP Code: 200, Result: -58.57
+2025-10-15 15:30:56,572 - Endpoint: multiply, Inputs: (-70.0, 5.14), IP: 127.0.0.1, HTTP Code: 200, Result: -359.79999999999995
+2025-10-15 15:30:56,582 - Endpoint: multiply, Inputs: (-91.11, -5.38), IP: 127.0.0.1, HTTP Code: 200, Result: 490.17179999999996
+2025-10-15 15:30:56,586 - Endpoint: subtract, Inputs: (-68.0, -10.77), IP: 127.0.0.1, HTTP Code: 200, Result: -57.230000000000004
+2025-10-15 15:30:56,592 - Endpoint: subtract, Inputs: (31.21, -83.0), IP: 127.0.0.1, HTTP Code: 200, Result: 114.21000000000001
+2025-10-15 15:30:56,597 - Endpoint: subtract, Inputs: (39.4, 76.0), IP: 127.0.0.1, HTTP Code: 200, Result: -36.6
+2025-10-15 15:30:56,602 - Endpoint: multiply, Inputs: (mnw, 21), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,607 - Endpoint: add, Inputs: (-30.74, 56.03), IP: 127.0.0.1, HTTP Code: 200, Result: 25.290000000000003
+2025-10-15 15:30:56,612 - Endpoint: add, Inputs: (-24.84, 33.06), IP: 127.0.0.1, HTTP Code: 200, Result: 8.220000000000002
+2025-10-15 15:30:56,616 - Endpoint: divide, Inputs: (18.0, -50.56), IP: 127.0.0.1, HTTP Code: 200, Result: -0.3560126582278481
+2025-10-15 15:30:56,621 - Endpoint: subtract, Inputs: (91.0, -20.56), IP: 127.0.0.1, HTTP Code: 200, Result: 111.56
+2025-10-15 15:30:56,627 - Endpoint: add, Inputs: (-6.2, -10.73), IP: 127.0.0.1, HTTP Code: 200, Result: -16.93
+2025-10-15 15:30:56,635 - Endpoint: multiply, Inputs: (56.01, -51.0), IP: 127.0.0.1, HTTP Code: 200, Result: -2856.5099999999998
+2025-10-15 15:30:56,639 - Endpoint: divide, Inputs: (-35.01, -18.69), IP: 127.0.0.1, HTTP Code: 200, Result: 1.873194221508828
+2025-10-15 15:30:56,645 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,649 - Endpoint: multiply, Inputs: (42.5, 84.09), IP: 127.0.0.1, HTTP Code: 200, Result: 3573.8250000000003
+2025-10-15 15:30:56,655 - Endpoint: add, Inputs: (77.29, Syzh), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,659 - Endpoint: subtract, Inputs: (91.03, 80.79), IP: 127.0.0.1, HTTP Code: 200, Result: 10.239999999999995
+2025-10-15 15:30:56,665 - Endpoint: multiply, Inputs: (46.93, -48.21), IP: 127.0.0.1, HTTP Code: 200, Result: -2262.4953
+2025-10-15 15:30:56,669 - Endpoint: subtract, Inputs: (85.49, -59.36), IP: 127.0.0.1, HTTP Code: 200, Result: 144.85
+2025-10-15 15:30:56,678 - Endpoint: add, Inputs: (-59.73, -25.03), IP: 127.0.0.1, HTTP Code: 200, Result: -84.75999999999999
+2025-10-15 15:30:56,684 - Endpoint: multiply, Inputs: (96.0, 95.64), IP: 127.0.0.1, HTTP Code: 200, Result: 9181.44
+2025-10-15 15:30:56,684 - Endpoint: subtract, Inputs: (-35.0, 61.0), IP: 127.0.0.1, HTTP Code: 200, Result: -96.0
+2025-10-15 15:30:56,693 - Endpoint: divide, Inputs: (28.21, -14.73), IP: 127.0.0.1, HTTP Code: 200, Result: -1.9151391717583164
+2025-10-15 15:30:56,698 - Endpoint: multiply, Inputs: (97.61, -35.0), IP: 127.0.0.1, HTTP Code: 200, Result: -3416.35
+2025-10-15 15:30:56,703 - Endpoint: multiply, Inputs: (49.47, -20.39), IP: 127.0.0.1, HTTP Code: 200, Result: -1008.6933
+2025-10-15 15:30:56,707 - Endpoint: subtract, Inputs: (-55.81, 79.0), IP: 127.0.0.1, HTTP Code: 200, Result: -134.81
+2025-10-15 15:30:56,712 - Endpoint: multiply, Inputs: (52.78, -64.0), IP: 127.0.0.1, HTTP Code: 200, Result: -3377.92
+2025-10-15 15:30:56,717 - Endpoint: divide, Inputs: (-64.89, -86.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.7545348837209302
+2025-10-15 15:30:56,723 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,725 - Endpoint: add, Inputs: (26.19, 84.0), IP: 127.0.0.1, HTTP Code: 200, Result: 110.19
+2025-10-15 15:30:56,730 - Endpoint: add, Inputs: (32.43, 39.3), IP: 127.0.0.1, HTTP Code: 200, Result: 71.72999999999999
+2025-10-15 15:30:56,735 - Endpoint: multiply, Inputs: (-86.0, -4.9), IP: 127.0.0.1, HTTP Code: 200, Result: 421.40000000000003
+2025-10-15 15:30:56,739 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,743 - Endpoint: add, Inputs: (51.06, rIB), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,747 - Endpoint: add, Inputs: (-15.0, -2.0), IP: 127.0.0.1, HTTP Code: 200, Result: -17.0
+2025-10-15 15:30:56,752 - Endpoint: divide, Inputs: (78.0, 2.0), IP: 127.0.0.1, HTTP Code: 200, Result: 39.0
+2025-10-15 15:30:56,755 - Endpoint: subtract, Inputs: (56.1, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 56.1
+2025-10-15 15:30:56,758 - Endpoint: multiply, Inputs: (-67.96, 20.61), IP: 127.0.0.1, HTTP Code: 200, Result: -1400.6555999999998
+2025-10-15 15:30:56,763 - Endpoint: divide, Inputs: (24.0, 81.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.2962962962962963
+2025-10-15 15:30:56,765 - Endpoint: divide, Inputs: (32.22, -79.4), IP: 127.0.0.1, HTTP Code: 200, Result: -0.40579345088161206
+2025-10-15 15:30:56,765 - Endpoint: add, Inputs: (93, yWc), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,782 - Endpoint: subtract, Inputs: (31.0, -24.2), IP: 127.0.0.1, HTTP Code: 200, Result: 55.2
+2025-10-15 15:30:56,786 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,792 - Endpoint: divide, Inputs: (0.7, 92.39), IP: 127.0.0.1, HTTP Code: 200, Result: 0.007576577551683082
+2025-10-15 15:30:56,797 - Endpoint: divide, Inputs: (-60.0, -10.0), IP: 127.0.0.1, HTTP Code: 200, Result: 6.0
+2025-10-15 15:30:56,804 - Endpoint: add, Inputs: (87.66, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 87.66
+2025-10-15 15:30:56,821 - Endpoint: subtract, Inputs: (36.2, 65.0), IP: 127.0.0.1, HTTP Code: 200, Result: -28.799999999999997
+2025-10-15 15:30:56,829 - Endpoint: multiply, Inputs: (-0.24, 59.94), IP: 127.0.0.1, HTTP Code: 200, Result: -14.385599999999998
+2025-10-15 15:30:56,833 - Endpoint: divide, Inputs: (93.0, -52.75), IP: 127.0.0.1, HTTP Code: 200, Result: -1.7630331753554502
+2025-10-15 15:30:56,833 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,851 - Endpoint: add, Inputs: (15.18, 31.0), IP: 127.0.0.1, HTTP Code: 200, Result: 46.18
+2025-10-15 15:30:56,858 - Endpoint: multiply, Inputs: (77.17, 60.0), IP: 127.0.0.1, HTTP Code: 200, Result: 4630.2
+2025-10-15 15:30:56,864 - Endpoint: multiply, Inputs: (-47.22, -30.15), IP: 127.0.0.1, HTTP Code: 200, Result: 1423.683
+2025-10-15 15:30:56,868 - Endpoint: multiply, Inputs: (61.0, -73.86), IP: 127.0.0.1, HTTP Code: 200, Result: -4505.46
+2025-10-15 15:30:56,873 - Endpoint: add, Inputs: (-82.94, ptq), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,883 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,889 - Endpoint: subtract, Inputs: (57.65, cSwS), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,891 - Endpoint: multiply, Inputs: (49.45, -79.01), IP: 127.0.0.1, HTTP Code: 200, Result: -3907.0445000000004
+2025-10-15 15:30:56,896 - Endpoint: divide, Inputs: (-77.58, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:56,899 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,906 - Endpoint: add, Inputs: (66.31, 35.65), IP: 127.0.0.1, HTTP Code: 200, Result: 101.96000000000001
+2025-10-15 15:30:56,906 - Endpoint: add, Inputs: (-51.66, 55.56), IP: 127.0.0.1, HTTP Code: 200, Result: 3.9000000000000057
+2025-10-15 15:30:56,918 - Endpoint: multiply, Inputs: (-88.65, 31.59), IP: 127.0.0.1, HTTP Code: 200, Result: -2800.4535
+2025-10-15 15:30:56,926 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,932 - Endpoint: multiply, Inputs: (N, 71.30), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,938 - Endpoint: subtract, Inputs: (-48.29, 66.0), IP: 127.0.0.1, HTTP Code: 200, Result: -114.28999999999999
+2025-10-15 15:30:56,943 - Endpoint: add, Inputs: (25.03, 5.0), IP: 127.0.0.1, HTTP Code: 200, Result: 30.03
+2025-10-15 15:30:56,950 - Endpoint: add, Inputs: (11.24, -6.55), IP: 127.0.0.1, HTTP Code: 200, Result: 4.69
+2025-10-15 15:30:56,954 - Endpoint: subtract, Inputs: (33.37, 97.0), IP: 127.0.0.1, HTTP Code: 200, Result: -63.63
+2025-10-15 15:30:56,962 - Endpoint: multiply, Inputs: (-38.25, -75.68), IP: 127.0.0.1, HTTP Code: 200, Result: 2894.76
+2025-10-15 15:30:56,967 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:56,970 - Endpoint: add, Inputs: (-6.0, -13.0), IP: 127.0.0.1, HTTP Code: 200, Result: -19.0
+2025-10-15 15:30:56,976 - Endpoint: multiply, Inputs: (65.0, 89.3), IP: 127.0.0.1, HTTP Code: 200, Result: 5804.5
+2025-10-15 15:30:56,980 - Endpoint: divide, Inputs: (87.94, eW), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:56,985 - Endpoint: subtract, Inputs: (17.2, -31.19), IP: 127.0.0.1, HTTP Code: 200, Result: 48.39
+2025-10-15 15:30:56,985 - Endpoint: subtract, Inputs: (60.82, -77.0), IP: 127.0.0.1, HTTP Code: 200, Result: 137.82
+2025-10-15 15:30:56,996 - Endpoint: subtract, Inputs: (76.0, 90.31), IP: 127.0.0.1, HTTP Code: 200, Result: -14.310000000000002
+2025-10-15 15:30:56,999 - Endpoint: divide, Inputs: (58.95, 61.26), IP: 127.0.0.1, HTTP Code: 200, Result: 0.9622918707149853
+2025-10-15 15:30:57,002 - Endpoint: divide, Inputs: (-66.3, -26.0), IP: 127.0.0.1, HTTP Code: 200, Result: 2.55
+2025-10-15 15:30:57,006 - Endpoint: divide, Inputs: (2.45, 85.49), IP: 127.0.0.1, HTTP Code: 200, Result: 0.02865832261083168
+2025-10-15 15:30:57,016 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,020 - Endpoint: subtract, Inputs: (8.44, 2.27), IP: 127.0.0.1, HTTP Code: 200, Result: 6.17
+2025-10-15 15:30:57,020 - Endpoint: add, Inputs: (70.8, -67.79), IP: 127.0.0.1, HTTP Code: 200, Result: 3.009999999999991
+2025-10-15 15:30:57,031 - Endpoint: subtract, Inputs: (15.67, 46.27), IP: 127.0.0.1, HTTP Code: 200, Result: -30.6
+2025-10-15 15:30:57,035 - Endpoint: subtract, Inputs: (le, 83.56), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,040 - Endpoint: multiply, Inputs: (78.0, 82.62), IP: 127.0.0.1, HTTP Code: 200, Result: 6444.360000000001
+2025-10-15 15:30:57,040 - Endpoint: multiply, Inputs: (20.84, -20.0), IP: 127.0.0.1, HTTP Code: 200, Result: -416.8
+2025-10-15 15:30:57,050 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,056 - Endpoint: multiply, Inputs: (-10.0, 94.05), IP: 127.0.0.1, HTTP Code: 200, Result: -940.5
+2025-10-15 15:30:57,061 - Endpoint: multiply, Inputs: (91.94, 86.92), IP: 127.0.0.1, HTTP Code: 200, Result: 7991.4248
+2025-10-15 15:30:57,069 - Endpoint: divide, Inputs: (-7.0, -14.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.5
+2025-10-15 15:30:57,075 - Endpoint: multiply, Inputs: (24.52, -15.42), IP: 127.0.0.1, HTTP Code: 200, Result: -378.09839999999997
+2025-10-15 15:30:57,082 - Endpoint: divide, Inputs: (47.41, 32.21), IP: 127.0.0.1, HTTP Code: 200, Result: 1.4719031356721513
+2025-10-15 15:30:57,088 - Endpoint: divide, Inputs: (94.74, -61.5), IP: 127.0.0.1, HTTP Code: 200, Result: -1.5404878048780486
+2025-10-15 15:30:57,092 - Endpoint: divide, Inputs: (-20.0, 19.09), IP: 127.0.0.1, HTTP Code: 200, Result: -1.0476689366160294
+2025-10-15 15:30:57,098 - Endpoint: divide, Inputs: (82.62, cZ), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,103 - Endpoint: subtract, Inputs: (75.08, IyQg), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,107 - Endpoint: subtract, Inputs: (-60.13, -39.83), IP: 127.0.0.1, HTTP Code: 200, Result: -20.300000000000004
+2025-10-15 15:30:57,115 - Endpoint: add, Inputs: (33.48, fy), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,119 - Endpoint: multiply, Inputs: (-34.23, -70.0), IP: 127.0.0.1, HTTP Code: 200, Result: 2396.1
+2025-10-15 15:30:57,122 - Endpoint: add, Inputs: (56.79, 14.0), IP: 127.0.0.1, HTTP Code: 200, Result: 70.78999999999999
+2025-10-15 15:30:57,134 - Endpoint: subtract, Inputs: (-61.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -61.0
+2025-10-15 15:30:57,134 - Endpoint: add, Inputs: (-94.74, -72.35), IP: 127.0.0.1, HTTP Code: 200, Result: -167.08999999999997
+2025-10-15 15:30:57,134 - Endpoint: subtract, Inputs: (dXhD, -56.33), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,148 - Endpoint: divide, Inputs: (-96.0, -58.36), IP: 127.0.0.1, HTTP Code: 200, Result: 1.6449623029472242
+2025-10-15 15:30:57,153 - Endpoint: subtract, Inputs: (-20.44, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -20.44
+2025-10-15 15:30:57,156 - Endpoint: divide, Inputs: (uQV, -33), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,164 - Endpoint: multiply, Inputs: (23.17, -34.0), IP: 127.0.0.1, HTTP Code: 200, Result: -787.7800000000001
+2025-10-15 15:30:57,169 - Endpoint: add, Inputs: (-86.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -86.0
+2025-10-15 15:30:57,172 - Endpoint: add, Inputs: (13.28, 81.0), IP: 127.0.0.1, HTTP Code: 200, Result: 94.28
+2025-10-15 15:30:57,177 - Endpoint: divide, Inputs: (46.19, -87.46), IP: 127.0.0.1, HTTP Code: 200, Result: -0.5281271438371827
+2025-10-15 15:30:57,183 - Endpoint: add, Inputs: (-72.39, 83.0), IP: 127.0.0.1, HTTP Code: 200, Result: 10.61
+2025-10-15 15:30:57,186 - Endpoint: divide, Inputs: (-3.38, 83.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.04072289156626506
+2025-10-15 15:30:57,192 - Endpoint: divide, Inputs: (56.0, -78.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.717948717948718
+2025-10-15 15:30:57,195 - Endpoint: subtract, Inputs: (-8.0, -52.05), IP: 127.0.0.1, HTTP Code: 200, Result: 44.05
+2025-10-15 15:30:57,201 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,201 - Endpoint: divide, Inputs: (-53.0, 25.98), IP: 127.0.0.1, HTTP Code: 200, Result: -2.040030792917629
+2025-10-15 15:30:57,213 - Endpoint: add, Inputs: (8.58, -55.75), IP: 127.0.0.1, HTTP Code: 200, Result: -47.17
+2025-10-15 15:30:57,220 - Endpoint: divide, Inputs: (riUD, -82.88), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,223 - Endpoint: add, Inputs: (57.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 57.0
+2025-10-15 15:30:57,232 - Endpoint: add, Inputs: (-37.07, -9.78), IP: 127.0.0.1, HTTP Code: 200, Result: -46.85
+2025-10-15 15:30:57,235 - Endpoint: multiply, Inputs: (-15.1, 58.11), IP: 127.0.0.1, HTTP Code: 200, Result: -877.461
+2025-10-15 15:30:57,244 - Endpoint: subtract, Inputs: (36.59, -88.06), IP: 127.0.0.1, HTTP Code: 200, Result: 124.65
+2025-10-15 15:30:57,249 - Endpoint: add, Inputs: (-22.15, -14.52), IP: 127.0.0.1, HTTP Code: 200, Result: -36.67
+2025-10-15 15:30:57,255 - Endpoint: subtract, Inputs: (40.06, 34.12), IP: 127.0.0.1, HTTP Code: 200, Result: 5.940000000000005
+2025-10-15 15:30:57,261 - Endpoint: subtract, Inputs: (59.33, -24.05), IP: 127.0.0.1, HTTP Code: 200, Result: 83.38
+2025-10-15 15:30:57,267 - Endpoint: multiply, Inputs: (69.0, 92.88), IP: 127.0.0.1, HTTP Code: 200, Result: 6408.719999999999
+2025-10-15 15:30:57,268 - Endpoint: divide, Inputs: (63.06, -57.27), IP: 127.0.0.1, HTTP Code: 200, Result: -1.1011000523834469
+2025-10-15 15:30:57,275 - Endpoint: subtract, Inputs: (0.65, -58.91), IP: 127.0.0.1, HTTP Code: 200, Result: 59.559999999999995
+2025-10-15 15:30:57,280 - Endpoint: multiply, Inputs: (59.31, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:57,286 - Endpoint: subtract, Inputs: (-34.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -34.0
+2025-10-15 15:30:57,290 - Endpoint: subtract, Inputs: (-43.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -43.0
+2025-10-15 15:30:57,297 - Endpoint: add, Inputs: (92.1, 88.89), IP: 127.0.0.1, HTTP Code: 200, Result: 180.99
+2025-10-15 15:30:57,300 - Endpoint: subtract, Inputs: (14.41, exMm), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,304 - Endpoint: add, Inputs: (46.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 46.0
+2025-10-15 15:30:57,309 - Endpoint: add, Inputs: (-59.05, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -59.05
+2025-10-15 15:30:57,317 - Endpoint: add, Inputs: (-27.57, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -27.57
+2025-10-15 15:30:57,318 - Endpoint: multiply, Inputs: (23.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:57,318 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,329 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,333 - Endpoint: multiply, Inputs: (-33.37, GP), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,333 - Endpoint: add, Inputs: (8.09, 63.78), IP: 127.0.0.1, HTTP Code: 200, Result: 71.87
+2025-10-15 15:30:57,342 - Endpoint: multiply, Inputs: (89.75, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:57,350 - Endpoint: add, Inputs: (-36.33, 12.05), IP: 127.0.0.1, HTTP Code: 200, Result: -24.279999999999998
+2025-10-15 15:30:57,350 - Endpoint: subtract, Inputs: (39.07, -5.53), IP: 127.0.0.1, HTTP Code: 200, Result: 44.6
+2025-10-15 15:30:57,356 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,364 - Endpoint: divide, Inputs: (67.76, 17.0), IP: 127.0.0.1, HTTP Code: 200, Result: 3.985882352941177
+2025-10-15 15:30:57,367 - Endpoint: add, Inputs: (-17.0, 65.66), IP: 127.0.0.1, HTTP Code: 200, Result: 48.66
+2025-10-15 15:30:57,373 - Endpoint: divide, Inputs: (-87.63, 3.67), IP: 127.0.0.1, HTTP Code: 200, Result: -23.877384196185286
+2025-10-15 15:30:57,381 - Endpoint: add, Inputs: (-73.0, -95.94), IP: 127.0.0.1, HTTP Code: 200, Result: -168.94
+2025-10-15 15:30:57,384 - Endpoint: multiply, Inputs: (60.15, 71.64), IP: 127.0.0.1, HTTP Code: 200, Result: 4309.146
+2025-10-15 15:30:57,384 - Endpoint: multiply, Inputs: (47.84, 71.84), IP: 127.0.0.1, HTTP Code: 200, Result: 3436.8256000000006
+2025-10-15 15:30:57,400 - Endpoint: subtract, Inputs: (-37.95, -70.49), IP: 127.0.0.1, HTTP Code: 200, Result: 32.53999999999999
+2025-10-15 15:30:57,404 - Endpoint: divide, Inputs: (60.51, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:57,409 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,414 - Endpoint: add, Inputs: (yfcs, 46.71), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,419 - Endpoint: add, Inputs: (40.5, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 40.5
+2025-10-15 15:30:57,423 - Endpoint: multiply, Inputs: (-73.0, -75.12), IP: 127.0.0.1, HTTP Code: 200, Result: 5483.76
+2025-10-15 15:30:57,432 - Endpoint: multiply, Inputs: (-89.0, -77.01), IP: 127.0.0.1, HTTP Code: 200, Result: 6853.89
+2025-10-15 15:30:57,439 - Endpoint: subtract, Inputs: (37.22, 68.25), IP: 127.0.0.1, HTTP Code: 200, Result: -31.03
+2025-10-15 15:30:57,439 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,447 - Endpoint: subtract, Inputs: (-43.0, -10.51), IP: 127.0.0.1, HTTP Code: 200, Result: -32.49
+2025-10-15 15:30:57,454 - Endpoint: add, Inputs: (-7.64, -85.71), IP: 127.0.0.1, HTTP Code: 200, Result: -93.35
+2025-10-15 15:30:57,460 - Endpoint: divide, Inputs: (-78.53, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:57,466 - Endpoint: add, Inputs: (19, xeGq), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,469 - Endpoint: divide, Inputs: (3.58, -11.62), IP: 127.0.0.1, HTTP Code: 200, Result: -0.30808950086058523
+2025-10-15 15:30:57,469 - Endpoint: divide, Inputs: (11.59, 49.69), IP: 127.0.0.1, HTTP Code: 200, Result: 0.2332461259810827
+2025-10-15 15:30:57,482 - Endpoint: subtract, Inputs: (-40.08, -27.63), IP: 127.0.0.1, HTTP Code: 200, Result: -12.45
+2025-10-15 15:30:57,487 - Endpoint: multiply, Inputs: (72.92, -36.27), IP: 127.0.0.1, HTTP Code: 200, Result: -2644.8084000000003
+2025-10-15 15:30:57,493 - Endpoint: multiply, Inputs: (-55.92, 11.01), IP: 127.0.0.1, HTTP Code: 200, Result: -615.6792
+2025-10-15 15:30:57,499 - Endpoint: add, Inputs: (78.36, 12.0), IP: 127.0.0.1, HTTP Code: 200, Result: 90.36
+2025-10-15 15:30:57,501 - Endpoint: add, Inputs: (-6.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -6.0
+2025-10-15 15:30:57,508 - Endpoint: subtract, Inputs: (-59.41, YT), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,512 - Endpoint: multiply, Inputs: (6.73, 36.6), IP: 127.0.0.1, HTTP Code: 200, Result: 246.318
+2025-10-15 15:30:57,517 - Endpoint: subtract, Inputs: (-78.0, -91.12), IP: 127.0.0.1, HTTP Code: 200, Result: 13.120000000000005
+2025-10-15 15:30:57,517 - Endpoint: divide, Inputs: (1.45, -48.03), IP: 127.0.0.1, HTTP Code: 200, Result: -0.030189464917759732
+2025-10-15 15:30:57,528 - Endpoint: divide, Inputs: (21.83, -49.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.4455102040816326
+2025-10-15 15:30:57,533 - Endpoint: divide, Inputs: (49.26, 23.84), IP: 127.0.0.1, HTTP Code: 200, Result: 2.0662751677852347
+2025-10-15 15:30:57,533 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,544 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,553 - Endpoint: add, Inputs: (5.0, 67.0), IP: 127.0.0.1, HTTP Code: 200, Result: 72.0
+2025-10-15 15:30:57,559 - Endpoint: multiply, Inputs: (79.67, 61.94), IP: 127.0.0.1, HTTP Code: 200, Result: 4934.7598
+2025-10-15 15:30:57,565 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,571 - Endpoint: divide, Inputs: (58.42, -36.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1.6227777777777779
+2025-10-15 15:30:57,580 - Endpoint: multiply, Inputs: (-12.0, -88.08), IP: 127.0.0.1, HTTP Code: 200, Result: 1056.96
+2025-10-15 15:30:57,586 - Endpoint: subtract, Inputs: (-26.73, 59.0), IP: 127.0.0.1, HTTP Code: 200, Result: -85.73
+2025-10-15 15:30:57,592 - Endpoint: multiply, Inputs: (24.4, 11.38), IP: 127.0.0.1, HTTP Code: 200, Result: 277.672
+2025-10-15 15:30:57,597 - Endpoint: subtract, Inputs: (10.25, -61.61), IP: 127.0.0.1, HTTP Code: 200, Result: 71.86
+2025-10-15 15:30:57,605 - Endpoint: add, Inputs: (-89.58, 80.5), IP: 127.0.0.1, HTTP Code: 200, Result: -9.079999999999998
+2025-10-15 15:30:57,611 - Endpoint: multiply, Inputs: (90.0, 3.56), IP: 127.0.0.1, HTTP Code: 200, Result: 320.4
+2025-10-15 15:30:57,617 - Endpoint: multiply, Inputs: (-7.0, -31.0), IP: 127.0.0.1, HTTP Code: 200, Result: 217.0
+2025-10-15 15:30:57,622 - Endpoint: subtract, Inputs: (71.9, -47.47), IP: 127.0.0.1, HTTP Code: 200, Result: 119.37
+2025-10-15 15:30:57,629 - Endpoint: add, Inputs: (-38.01, -93.28), IP: 127.0.0.1, HTTP Code: 200, Result: -131.29
+2025-10-15 15:30:57,633 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,639 - Endpoint: subtract, Inputs: (16.8, 53.28), IP: 127.0.0.1, HTTP Code: 200, Result: -36.480000000000004
+2025-10-15 15:30:57,644 - Endpoint: divide, Inputs: (-61.02, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:57,652 - Endpoint: divide, Inputs: (84.13, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:57,657 - Endpoint: add, Inputs: (83.59, -70.45), IP: 127.0.0.1, HTTP Code: 200, Result: 13.14
+2025-10-15 15:30:57,660 - Endpoint: multiply, Inputs: (68.0, 84.05), IP: 127.0.0.1, HTTP Code: 200, Result: 5715.4
+2025-10-15 15:30:57,666 - Endpoint: divide, Inputs: (BS, -70.13), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,672 - Endpoint: divide, Inputs: (Rwqn, -19), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,672 - Endpoint: subtract, Inputs: (22.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 22.0
+2025-10-15 15:30:57,687 - Endpoint: subtract, Inputs: (-57.18, -14.0), IP: 127.0.0.1, HTTP Code: 200, Result: -43.18
+2025-10-15 15:30:57,690 - Endpoint: divide, Inputs: (-93.82, -85.16), IP: 127.0.0.1, HTTP Code: 200, Result: 1.1016909347111319
+2025-10-15 15:30:57,700 - Endpoint: subtract, Inputs: (58.0, 12.24), IP: 127.0.0.1, HTTP Code: 200, Result: 45.76
+2025-10-15 15:30:57,706 - Endpoint: multiply, Inputs: (-33.0, -12.0), IP: 127.0.0.1, HTTP Code: 200, Result: 396.0
+2025-10-15 15:30:57,713 - Endpoint: subtract, Inputs: (-25.0, 84.07), IP: 127.0.0.1, HTTP Code: 200, Result: -109.07
+2025-10-15 15:30:57,718 - Endpoint: subtract, Inputs: (-4.0, -37.87), IP: 127.0.0.1, HTTP Code: 200, Result: 33.87
+2025-10-15 15:30:57,723 - Endpoint: subtract, Inputs: (-75.22, 72.0), IP: 127.0.0.1, HTTP Code: 200, Result: -147.22
+2025-10-15 15:30:57,730 - Endpoint: divide, Inputs: (-26.0, -17.28), IP: 127.0.0.1, HTTP Code: 200, Result: 1.5046296296296295
+2025-10-15 15:30:57,739 - Endpoint: subtract, Inputs: (-50.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -50.0
+2025-10-15 15:30:57,740 - Endpoint: divide, Inputs: (8.31, -69.65), IP: 127.0.0.1, HTTP Code: 200, Result: -0.119310839913855
+2025-10-15 15:30:57,747 - Endpoint: multiply, Inputs: (82.54, ZXPY), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,752 - Endpoint: subtract, Inputs: (62.0, -8.67), IP: 127.0.0.1, HTTP Code: 200, Result: 70.67
+2025-10-15 15:30:57,757 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,763 - Endpoint: subtract, Inputs: (-22.25, 6.0), IP: 127.0.0.1, HTTP Code: 200, Result: -28.25
+2025-10-15 15:30:57,767 - Endpoint: subtract, Inputs: (-75.59, 31.87), IP: 127.0.0.1, HTTP Code: 200, Result: -107.46000000000001
+2025-10-15 15:30:57,774 - Endpoint: subtract, Inputs: (-2.69, 51.0), IP: 127.0.0.1, HTTP Code: 200, Result: -53.69
+2025-10-15 15:30:57,780 - Endpoint: add, Inputs: (96.64, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 96.64
+2025-10-15 15:30:57,783 - Endpoint: add, Inputs: (-42.63, 50.0), IP: 127.0.0.1, HTTP Code: 200, Result: 7.369999999999997
+2025-10-15 15:30:57,786 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,800 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,807 - Endpoint: divide, Inputs: (31.03, 54.99), IP: 127.0.0.1, HTTP Code: 200, Result: 0.5642844153482451
+2025-10-15 15:30:57,813 - Endpoint: subtract, Inputs: (98.42, -26.34), IP: 127.0.0.1, HTTP Code: 200, Result: 124.76
+2025-10-15 15:30:57,819 - Endpoint: subtract, Inputs: (36.9, 45.13), IP: 127.0.0.1, HTTP Code: 200, Result: -8.230000000000004
+2025-10-15 15:30:57,821 - Endpoint: divide, Inputs: (-37.13, 2.86), IP: 127.0.0.1, HTTP Code: 200, Result: -12.982517482517483
+2025-10-15 15:30:57,830 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,834 - Endpoint: subtract, Inputs: (56.78, -87.93), IP: 127.0.0.1, HTTP Code: 200, Result: 144.71
+2025-10-15 15:30:57,839 - Endpoint: divide, Inputs: (18.0, -82.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.21951219512195122
+2025-10-15 15:30:57,844 - Endpoint: multiply, Inputs: (16.99, 35.74), IP: 127.0.0.1, HTTP Code: 200, Result: 607.2225999999999
+2025-10-15 15:30:57,851 - Endpoint: add, Inputs: (-83.0, -78.75), IP: 127.0.0.1, HTTP Code: 200, Result: -161.75
+2025-10-15 15:30:57,857 - Endpoint: add, Inputs: (-0.67, -54.0), IP: 127.0.0.1, HTTP Code: 200, Result: -54.67
+2025-10-15 15:30:57,859 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,868 - Endpoint: divide, Inputs: (16.57, -4.65), IP: 127.0.0.1, HTTP Code: 200, Result: -3.5634408602150534
+2025-10-15 15:30:57,873 - Endpoint: subtract, Inputs: (-80.16, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -80.16
+2025-10-15 15:30:57,880 - Endpoint: divide, Inputs: (-67.62, 21.0), IP: 127.0.0.1, HTTP Code: 200, Result: -3.22
+2025-10-15 15:30:57,887 - Endpoint: divide, Inputs: (-22.0, -47.26), IP: 127.0.0.1, HTTP Code: 200, Result: 0.46550994498518833
+2025-10-15 15:30:57,891 - Endpoint: multiply, Inputs: (22.49, -64.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1439.36
+2025-10-15 15:30:57,897 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,905 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,905 - Endpoint: multiply, Inputs: (6.0, -2.12), IP: 127.0.0.1, HTTP Code: 200, Result: -12.72
+2025-10-15 15:30:57,916 - Endpoint: subtract, Inputs: (-66.24, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -66.24
+2025-10-15 15:30:57,923 - Endpoint: multiply, Inputs: (-44.61, 49.38), IP: 127.0.0.1, HTTP Code: 200, Result: -2202.8418
+2025-10-15 15:30:57,930 - Endpoint: multiply, Inputs: (51.6, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:57,937 - Endpoint: add, Inputs: (78.17, -35.95), IP: 127.0.0.1, HTTP Code: 200, Result: 42.22
+2025-10-15 15:30:57,940 - Endpoint: subtract, Inputs: (-17.0, 96.2), IP: 127.0.0.1, HTTP Code: 200, Result: -113.2
+2025-10-15 15:30:57,946 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:57,953 - Endpoint: divide, Inputs: (-70.23, 20.0), IP: 127.0.0.1, HTTP Code: 200, Result: -3.5115000000000003
+2025-10-15 15:30:57,957 - Endpoint: multiply, Inputs: (O, -75.52), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:57,962 - Endpoint: divide, Inputs: (-37.78, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:57,962 - Endpoint: subtract, Inputs: (61.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 61.0
+2025-10-15 15:30:57,970 - Endpoint: subtract, Inputs: (-59.09, 68.01), IP: 127.0.0.1, HTTP Code: 200, Result: -127.10000000000001
+2025-10-15 15:30:57,978 - Endpoint: subtract, Inputs: (79.0, -39.7), IP: 127.0.0.1, HTTP Code: 200, Result: 118.7
+2025-10-15 15:30:57,984 - Endpoint: divide, Inputs: (33.43, 6.79), IP: 127.0.0.1, HTTP Code: 200, Result: 4.923416789396171
+2025-10-15 15:30:57,986 - Endpoint: subtract, Inputs: (-57.28, 1.0), IP: 127.0.0.1, HTTP Code: 200, Result: -58.28
+2025-10-15 15:30:57,994 - Endpoint: add, Inputs: (55.56, -45.66), IP: 127.0.0.1, HTTP Code: 200, Result: 9.900000000000006
+2025-10-15 15:30:57,997 - Endpoint: multiply, Inputs: (58.69, 18.75), IP: 127.0.0.1, HTTP Code: 200, Result: 1100.4375
+2025-10-15 15:30:58,004 - Endpoint: divide, Inputs: (-45.71, 6.12), IP: 127.0.0.1, HTTP Code: 200, Result: -7.468954248366013
+2025-10-15 15:30:58,013 - Endpoint: add, Inputs: (-78.33, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -78.33
+2025-10-15 15:30:58,020 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,026 - Endpoint: multiply, Inputs: (-30.0, -33.89), IP: 127.0.0.1, HTTP Code: 200, Result: 1016.7
+2025-10-15 15:30:58,031 - Endpoint: divide, Inputs: (87.54, -24.0), IP: 127.0.0.1, HTTP Code: 200, Result: -3.6475000000000004
+2025-10-15 15:30:58,038 - Endpoint: add, Inputs: (66.18, rVKQ), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,046 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,050 - Endpoint: subtract, Inputs: (-28.95, -55.0), IP: 127.0.0.1, HTTP Code: 200, Result: 26.05
+2025-10-15 15:30:58,055 - Endpoint: multiply, Inputs: (iL, -43.31), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,061 - Endpoint: subtract, Inputs: (8.79, 69.6), IP: 127.0.0.1, HTTP Code: 200, Result: -60.809999999999995
+2025-10-15 15:30:58,066 - Endpoint: divide, Inputs: (24.94, -63.16), IP: 127.0.0.1, HTTP Code: 200, Result: -0.3948701709943002
+2025-10-15 15:30:58,071 - Endpoint: multiply, Inputs: (8.0, -82.43), IP: 127.0.0.1, HTTP Code: 200, Result: -659.44
+2025-10-15 15:30:58,074 - Endpoint: multiply, Inputs: (-80.81, 96.31), IP: 127.0.0.1, HTTP Code: 200, Result: -7782.811100000001
+2025-10-15 15:30:58,083 - Endpoint: divide, Inputs: (18.96, -89.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.21303370786516854
+2025-10-15 15:30:58,087 - Endpoint: divide, Inputs: (-6.13, 70.41), IP: 127.0.0.1, HTTP Code: 200, Result: -0.08706149694645647
+2025-10-15 15:30:58,089 - Endpoint: divide, Inputs: (-14.76, -66.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.22363636363636363
+2025-10-15 15:30:58,089 - Endpoint: add, Inputs: (36.82, 89.69), IP: 127.0.0.1, HTTP Code: 200, Result: 126.50999999999999
+2025-10-15 15:30:58,102 - Endpoint: add, Inputs: (-71.0, 45.0), IP: 127.0.0.1, HTTP Code: 200, Result: -26.0
+2025-10-15 15:30:58,104 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,114 - Endpoint: divide, Inputs: (1.0, -45.8), IP: 127.0.0.1, HTTP Code: 200, Result: -0.02183406113537118
+2025-10-15 15:30:58,119 - Endpoint: add, Inputs: (-94.23, -37.67), IP: 127.0.0.1, HTTP Code: 200, Result: -131.9
+2025-10-15 15:30:58,119 - Endpoint: multiply, Inputs: (63.31, 28.51), IP: 127.0.0.1, HTTP Code: 200, Result: 1804.9681000000003
+2025-10-15 15:30:58,131 - Endpoint: divide, Inputs: (bDqR, 28), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,138 - Endpoint: divide, Inputs: (-40.27, lAV), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,143 - Endpoint: subtract, Inputs: (25.01, 15.01), IP: 127.0.0.1, HTTP Code: 200, Result: 10.000000000000002
+2025-10-15 15:30:58,149 - Endpoint: multiply, Inputs: (11.07, 67.0), IP: 127.0.0.1, HTTP Code: 200, Result: 741.69
+2025-10-15 15:30:58,157 - Endpoint: subtract, Inputs: (0.93, 78.04), IP: 127.0.0.1, HTTP Code: 200, Result: -77.11
+2025-10-15 15:30:58,161 - Endpoint: add, Inputs: (30.0, -10.14), IP: 127.0.0.1, HTTP Code: 200, Result: 19.86
+2025-10-15 15:30:58,165 - Endpoint: divide, Inputs: (21.6, 10.0), IP: 127.0.0.1, HTTP Code: 200, Result: 2.16
+2025-10-15 15:30:58,165 - Endpoint: divide, Inputs: (19.71, -96.62), IP: 127.0.0.1, HTTP Code: 200, Result: -0.20399503208445458
+2025-10-15 15:30:58,181 - Endpoint: add, Inputs: (-25.98, 93.64), IP: 127.0.0.1, HTTP Code: 200, Result: 67.66
+2025-10-15 15:30:58,186 - Endpoint: subtract, Inputs: (29.02, -17.11), IP: 127.0.0.1, HTTP Code: 200, Result: 46.129999999999995
+2025-10-15 15:30:58,188 - Endpoint: multiply, Inputs: (-2.0, -93.0), IP: 127.0.0.1, HTTP Code: 200, Result: 186.0
+2025-10-15 15:30:58,188 - Endpoint: add, Inputs: (10.79, 22.91), IP: 127.0.0.1, HTTP Code: 200, Result: 33.7
+2025-10-15 15:30:58,204 - Endpoint: add, Inputs: (-38.72, -83.31), IP: 127.0.0.1, HTTP Code: 200, Result: -122.03
+2025-10-15 15:30:58,210 - Endpoint: subtract, Inputs: (36.06, jWnd), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,210 - Endpoint: multiply, Inputs: (39.49, 61.0), IP: 127.0.0.1, HTTP Code: 200, Result: 2408.8900000000003
+2025-10-15 15:30:58,220 - Endpoint: subtract, Inputs: (43.02, -48.33), IP: 127.0.0.1, HTTP Code: 200, Result: 91.35
+2025-10-15 15:30:58,220 - Endpoint: subtract, Inputs: (20.37, -39.55), IP: 127.0.0.1, HTTP Code: 200, Result: 59.92
+2025-10-15 15:30:58,220 - Endpoint: multiply, Inputs: (23.89, 11.0), IP: 127.0.0.1, HTTP Code: 200, Result: 262.79
+2025-10-15 15:30:58,239 - Endpoint: subtract, Inputs: (-25.11, -78.34), IP: 127.0.0.1, HTTP Code: 200, Result: 53.230000000000004
+2025-10-15 15:30:58,245 - Endpoint: add, Inputs: (-17.53, -38.12), IP: 127.0.0.1, HTTP Code: 200, Result: -55.65
+2025-10-15 15:30:58,250 - Endpoint: subtract, Inputs: (33.31, 48.29), IP: 127.0.0.1, HTTP Code: 200, Result: -14.979999999999997
+2025-10-15 15:30:58,257 - Endpoint: multiply, Inputs: (98.0, 83.77), IP: 127.0.0.1, HTTP Code: 200, Result: 8209.46
+2025-10-15 15:30:58,262 - Endpoint: subtract, Inputs: (-4.08, -28.01), IP: 127.0.0.1, HTTP Code: 200, Result: 23.93
+2025-10-15 15:30:58,268 - Endpoint: subtract, Inputs: (-13.0, 15.55), IP: 127.0.0.1, HTTP Code: 200, Result: -28.55
+2025-10-15 15:30:58,273 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,273 - Endpoint: divide, Inputs: (86.94, -42.0), IP: 127.0.0.1, HTTP Code: 200, Result: -2.07
+2025-10-15 15:30:58,283 - Endpoint: divide, Inputs: (5.01, -90.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.05566666666666666
+2025-10-15 15:30:58,289 - Endpoint: subtract, Inputs: (-52.46, 80.85), IP: 127.0.0.1, HTTP Code: 200, Result: -133.31
+2025-10-15 15:30:58,299 - Endpoint: subtract, Inputs: (-68.29, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -68.29
+2025-10-15 15:30:58,304 - Endpoint: multiply, Inputs: (-39.38, 66.83), IP: 127.0.0.1, HTTP Code: 200, Result: -2631.7654
+2025-10-15 15:30:58,308 - Endpoint: divide, Inputs: (-6.5, 88.07), IP: 127.0.0.1, HTTP Code: 200, Result: -0.07380492789826275
+2025-10-15 15:30:58,315 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,319 - Endpoint: divide, Inputs: (-17.47, 4.0), IP: 127.0.0.1, HTTP Code: 200, Result: -4.3675
+2025-10-15 15:30:58,319 - Endpoint: subtract, Inputs: (60.69, 90.0), IP: 127.0.0.1, HTTP Code: 200, Result: -29.310000000000002
+2025-10-15 15:30:58,330 - Endpoint: subtract, Inputs: (-83.62, -6.0), IP: 127.0.0.1, HTTP Code: 200, Result: -77.62
+2025-10-15 15:30:58,338 - Endpoint: multiply, Inputs: (-19.37, 79.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1530.23
+2025-10-15 15:30:58,347 - Endpoint: divide, Inputs: (-60.93, -29.69), IP: 127.0.0.1, HTTP Code: 200, Result: 2.0522061300101044
+2025-10-15 15:30:58,353 - Endpoint: subtract, Inputs: (-27, nVCw), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,359 - Endpoint: multiply, Inputs: (-36.07, -75.59), IP: 127.0.0.1, HTTP Code: 200, Result: 2726.5313
+2025-10-15 15:30:58,364 - Endpoint: multiply, Inputs: (u, 68.88), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,367 - Endpoint: add, Inputs: (-11.78, -50.48), IP: 127.0.0.1, HTTP Code: 200, Result: -62.26
+2025-10-15 15:30:58,374 - Endpoint: add, Inputs: (Fam, -17.69), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,379 - Endpoint: divide, Inputs: (69.0, -25.0), IP: 127.0.0.1, HTTP Code: 200, Result: -2.76
+2025-10-15 15:30:58,387 - Endpoint: divide, Inputs: (-12.04, OSC), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,391 - Endpoint: multiply, Inputs: (71.91, 72.99), IP: 127.0.0.1, HTTP Code: 200, Result: 5248.710899999999
+2025-10-15 15:30:58,398 - Endpoint: subtract, Inputs: (14.3, -11.66), IP: 127.0.0.1, HTTP Code: 200, Result: 25.96
+2025-10-15 15:30:58,414 - Endpoint: add, Inputs: (-39.3, 67.75), IP: 127.0.0.1, HTTP Code: 200, Result: 28.450000000000003
+2025-10-15 15:30:58,421 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,437 - Endpoint: add, Inputs: (-39.68, -86.61), IP: 127.0.0.1, HTTP Code: 200, Result: -126.28999999999999
+2025-10-15 15:30:58,437 - Endpoint: subtract, Inputs: (e, 34), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,457 - Endpoint: subtract, Inputs: (19.87, 31.8), IP: 127.0.0.1, HTTP Code: 200, Result: -11.93
+2025-10-15 15:30:58,462 - Endpoint: subtract, Inputs: (43.75, -94.0), IP: 127.0.0.1, HTTP Code: 200, Result: 137.75
+2025-10-15 15:30:58,468 - Endpoint: divide, Inputs: (75.0, -94.12), IP: 127.0.0.1, HTTP Code: 200, Result: -0.7968550786230344
+2025-10-15 15:30:58,483 - Endpoint: divide, Inputs: (-12.99, 91.04), IP: 127.0.0.1, HTTP Code: 200, Result: -0.14268453427065025
+2025-10-15 15:30:58,488 - Endpoint: multiply, Inputs: (-1.0, 40.45), IP: 127.0.0.1, HTTP Code: 200, Result: -40.45
+2025-10-15 15:30:58,490 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,500 - Endpoint: divide, Inputs: (-14.12, -53.41), IP: 127.0.0.1, HTTP Code: 200, Result: 0.26436996817075453
+2025-10-15 15:30:58,504 - Endpoint: multiply, Inputs: (87.24, -76.66), IP: 127.0.0.1, HTTP Code: 200, Result: -6687.818399999999
+2025-10-15 15:30:58,514 - Endpoint: divide, Inputs: (80.73, -97.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.8322680412371134
+2025-10-15 15:30:58,522 - Endpoint: subtract, Inputs: (75.0, 85.0), IP: 127.0.0.1, HTTP Code: 200, Result: -10.0
+2025-10-15 15:30:58,527 - Endpoint: add, Inputs: (-66.0, 50.36), IP: 127.0.0.1, HTTP Code: 200, Result: -15.64
+2025-10-15 15:30:58,534 - Endpoint: add, Inputs: (-45.0, 89.91), IP: 127.0.0.1, HTTP Code: 200, Result: 44.91
+2025-10-15 15:30:58,545 - Endpoint: add, Inputs: (-56.23, 52.86), IP: 127.0.0.1, HTTP Code: 200, Result: -3.3699999999999974
+2025-10-15 15:30:58,555 - Endpoint: divide, Inputs: (mEe, -38.49), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,558 - Endpoint: divide, Inputs: (-54.16, -55.85), IP: 127.0.0.1, HTTP Code: 200, Result: 0.969740376007162
+2025-10-15 15:30:58,564 - Endpoint: add, Inputs: (28.15, 99.0), IP: 127.0.0.1, HTTP Code: 200, Result: 127.15
+2025-10-15 15:30:58,576 - Endpoint: multiply, Inputs: (33.84, 61.34), IP: 127.0.0.1, HTTP Code: 200, Result: 2075.7456
+2025-10-15 15:30:58,581 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,592 - Endpoint: multiply, Inputs: (99.52, -79.6), IP: 127.0.0.1, HTTP Code: 200, Result: -7921.7919999999995
+2025-10-15 15:30:58,604 - Endpoint: multiply, Inputs: (-45.19, -89.38), IP: 127.0.0.1, HTTP Code: 200, Result: 4039.0821999999994
+2025-10-15 15:30:58,606 - Endpoint: multiply, Inputs: (81.5, -51.57), IP: 127.0.0.1, HTTP Code: 200, Result: -4202.955
+2025-10-15 15:30:58,619 - Endpoint: divide, Inputs: (-44.37, 42.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1.0564285714285713
+2025-10-15 15:30:58,623 - Endpoint: multiply, Inputs: (-75.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.0
+2025-10-15 15:30:58,631 - Endpoint: subtract, Inputs: (88.0, 79.33), IP: 127.0.0.1, HTTP Code: 200, Result: 8.670000000000002
+2025-10-15 15:30:58,637 - Endpoint: subtract, Inputs: (FgCf, 99.43), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,645 - Endpoint: divide, Inputs: (-41.92, -87.61), IP: 127.0.0.1, HTTP Code: 200, Result: 0.47848419130236275
+2025-10-15 15:30:58,650 - Endpoint: subtract, Inputs: (86.72, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 86.72
+2025-10-15 15:30:58,658 - Endpoint: multiply, Inputs: (21.36, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:58,669 - Endpoint: divide, Inputs: (6.0, -90.86), IP: 127.0.0.1, HTTP Code: 200, Result: -0.06603565925599823
+2025-10-15 15:30:58,671 - Endpoint: subtract, Inputs: (-27.0, -0.47), IP: 127.0.0.1, HTTP Code: 200, Result: -26.53
+2025-10-15 15:30:58,683 - Endpoint: add, Inputs: (-39.5, 79.96), IP: 127.0.0.1, HTTP Code: 200, Result: 40.459999999999994
+2025-10-15 15:30:58,691 - Endpoint: multiply, Inputs: (95.78, 19.41), IP: 127.0.0.1, HTTP Code: 200, Result: 1859.0898
+2025-10-15 15:30:58,694 - Endpoint: divide, Inputs: (89.52, 72.39), IP: 127.0.0.1, HTTP Code: 200, Result: 1.2366348943224201
+2025-10-15 15:30:58,703 - Endpoint: subtract, Inputs: (57.69, 22.21), IP: 127.0.0.1, HTTP Code: 200, Result: 35.48
+2025-10-15 15:30:58,709 - Endpoint: multiply, Inputs: (80.0, -67.66), IP: 127.0.0.1, HTTP Code: 200, Result: -5412.799999999999
+2025-10-15 15:30:58,715 - Endpoint: multiply, Inputs: (-64.0, -37.0), IP: 127.0.0.1, HTTP Code: 200, Result: 2368.0
+2025-10-15 15:30:58,719 - Endpoint: divide, Inputs: (39.14, 6.07), IP: 127.0.0.1, HTTP Code: 200, Result: 6.448105436573311
+2025-10-15 15:30:58,719 - Endpoint: add, Inputs: (13.47, qD), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,732 - Endpoint: divide, Inputs: (-15.0, 15.23), IP: 127.0.0.1, HTTP Code: 200, Result: -0.9848982271831911
+2025-10-15 15:30:58,743 - Endpoint: add, Inputs: (-15.03, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -15.03
+2025-10-15 15:30:58,750 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,756 - Endpoint: divide, Inputs: (41.0, -89.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.4606741573033708
+2025-10-15 15:30:58,760 - Endpoint: multiply, Inputs: (-95.18, frq), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,772 - Endpoint: multiply, Inputs: (50.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:58,772 - Endpoint: subtract, Inputs: (-69.0, -51.2), IP: 127.0.0.1, HTTP Code: 200, Result: -17.799999999999997
+2025-10-15 15:30:58,787 - Endpoint: add, Inputs: (44.75, 23.6), IP: 127.0.0.1, HTTP Code: 200, Result: 68.35
+2025-10-15 15:30:58,792 - Endpoint: subtract, Inputs: (99.82, -78.01), IP: 127.0.0.1, HTTP Code: 200, Result: 177.82999999999998
+2025-10-15 15:30:58,799 - Endpoint: add, Inputs: (-57.52, -48.0), IP: 127.0.0.1, HTTP Code: 200, Result: -105.52000000000001
+2025-10-15 15:30:58,807 - Endpoint: multiply, Inputs: (15.0, -24.0), IP: 127.0.0.1, HTTP Code: 200, Result: -360.0
+2025-10-15 15:30:58,812 - Endpoint: add, Inputs: (-47.83, -93.89), IP: 127.0.0.1, HTTP Code: 200, Result: -141.72
+2025-10-15 15:30:58,815 - Endpoint: add, Inputs: (4.0, -23.49), IP: 127.0.0.1, HTTP Code: 200, Result: -19.49
+2025-10-15 15:30:58,815 - Endpoint: divide, Inputs: (1.0, 88.95), IP: 127.0.0.1, HTTP Code: 200, Result: 0.011242270938729622
+2025-10-15 15:30:58,840 - Endpoint: subtract, Inputs: (91.34, 52.0), IP: 127.0.0.1, HTTP Code: 200, Result: 39.34
+2025-10-15 15:30:58,842 - Endpoint: subtract, Inputs: (-50.0, 45.49), IP: 127.0.0.1, HTTP Code: 200, Result: -95.49000000000001
+2025-10-15 15:30:58,856 - Endpoint: add, Inputs: (66.78, -65.39), IP: 127.0.0.1, HTTP Code: 200, Result: 1.3900000000000006
+2025-10-15 15:30:58,860 - Endpoint: add, Inputs: (-30.0, -39.0), IP: 127.0.0.1, HTTP Code: 200, Result: -69.0
+2025-10-15 15:30:58,867 - Endpoint: multiply, Inputs: (70.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:58,872 - Endpoint: add, Inputs: (TaV, -76.00), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,877 - Endpoint: multiply, Inputs: (64.19, GykS), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,885 - Endpoint: subtract, Inputs: (-84.0, -95.13), IP: 127.0.0.1, HTTP Code: 200, Result: 11.129999999999995
+2025-10-15 15:30:58,891 - Endpoint: add, Inputs: (FFk, -18), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,898 - Endpoint: multiply, Inputs: (36.54, 73.15), IP: 127.0.0.1, HTTP Code: 200, Result: 2672.9010000000003
+2025-10-15 15:30:58,904 - Endpoint: add, Inputs: (39.0, 27.37), IP: 127.0.0.1, HTTP Code: 200, Result: 66.37
+2025-10-15 15:30:58,908 - Endpoint: multiply, Inputs: (h, -17.74), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,917 - Endpoint: multiply, Inputs: (-8.38, -2.31), IP: 127.0.0.1, HTTP Code: 200, Result: 19.3578
+2025-10-15 15:30:58,920 - Endpoint: subtract, Inputs: (-30.43, 30.27), IP: 127.0.0.1, HTTP Code: 200, Result: -60.7
+2025-10-15 15:30:58,925 - Endpoint: subtract, Inputs: (22.22, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 22.22
+2025-10-15 15:30:58,933 - Endpoint: add, Inputs: (-40.07, -64.36), IP: 127.0.0.1, HTTP Code: 200, Result: -104.43
+2025-10-15 15:30:58,937 - Endpoint: subtract, Inputs: (60.59, -72.49), IP: 127.0.0.1, HTTP Code: 200, Result: 133.07999999999998
+2025-10-15 15:30:58,947 - Endpoint: subtract, Inputs: (92.11, Xo), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:58,954 - Endpoint: add, Inputs: (99.4, -80.0), IP: 127.0.0.1, HTTP Code: 200, Result: 19.400000000000006
+2025-10-15 15:30:58,958 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,965 - Endpoint: subtract, Inputs: (-52.34, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -52.34
+2025-10-15 15:30:58,972 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:58,972 - Endpoint: divide, Inputs: (-52.0, -82.25), IP: 127.0.0.1, HTTP Code: 200, Result: 0.6322188449848024
+2025-10-15 15:30:58,981 - Endpoint: divide, Inputs: (-36.0, -45.01), IP: 127.0.0.1, HTTP Code: 200, Result: 0.7998222617196179
+2025-10-15 15:30:58,988 - Endpoint: divide, Inputs: (56.0, -32.12), IP: 127.0.0.1, HTTP Code: 200, Result: -1.7434620174346203
+2025-10-15 15:30:58,995 - Endpoint: subtract, Inputs: (66.71, 5.0), IP: 127.0.0.1, HTTP Code: 200, Result: 61.709999999999994
+2025-10-15 15:30:58,999 - Endpoint: divide, Inputs: (z, -35.97), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,004 - Endpoint: subtract, Inputs: (12.0, 46.0), IP: 127.0.0.1, HTTP Code: 200, Result: -34.0
+2025-10-15 15:30:59,015 - Endpoint: subtract, Inputs: (-18.7, 59.0), IP: 127.0.0.1, HTTP Code: 200, Result: -77.7
+2025-10-15 15:30:59,021 - Endpoint: subtract, Inputs: (42.69, 94.0), IP: 127.0.0.1, HTTP Code: 200, Result: -51.31
+2025-10-15 15:30:59,023 - Endpoint: subtract, Inputs: (-64, DE), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,032 - Endpoint: multiply, Inputs: (PE, -12.05), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,039 - Endpoint: subtract, Inputs: (79.25, 61.0), IP: 127.0.0.1, HTTP Code: 200, Result: 18.25
+2025-10-15 15:30:59,044 - Endpoint: multiply, Inputs: (-7.4, -16.38), IP: 127.0.0.1, HTTP Code: 200, Result: 121.212
+2025-10-15 15:30:59,053 - Endpoint: add, Inputs: (-50.66, 74.0), IP: 127.0.0.1, HTTP Code: 200, Result: 23.340000000000003
+2025-10-15 15:30:59,058 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,063 - Endpoint: subtract, Inputs: (-52.0, 52.32), IP: 127.0.0.1, HTTP Code: 200, Result: -104.32
+2025-10-15 15:30:59,070 - Endpoint: subtract, Inputs: (-0.93, -44.0), IP: 127.0.0.1, HTTP Code: 200, Result: 43.07
+2025-10-15 15:30:59,075 - Endpoint: multiply, Inputs: (-30.0, -58.68), IP: 127.0.0.1, HTTP Code: 200, Result: 1760.4
+2025-10-15 15:30:59,083 - Endpoint: multiply, Inputs: (-90.96, -57.02), IP: 127.0.0.1, HTTP Code: 200, Result: 5186.5392
+2025-10-15 15:30:59,089 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,095 - Endpoint: subtract, Inputs: (66.6, -75.38), IP: 127.0.0.1, HTTP Code: 200, Result: 141.98
+2025-10-15 15:30:59,102 - Endpoint: multiply, Inputs: (-97.29, -66.33), IP: 127.0.0.1, HTTP Code: 200, Result: 6453.2457
+2025-10-15 15:30:59,107 - Endpoint: divide, Inputs: (KMG, -68.07), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,114 - Endpoint: divide, Inputs: (-92.12, -55.59), IP: 127.0.0.1, HTTP Code: 200, Result: 1.657132577801763
+2025-10-15 15:30:59,119 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,124 - Endpoint: divide, Inputs: (-16.0, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:59,128 - Endpoint: multiply, Inputs: (24.0, 16.81), IP: 127.0.0.1, HTTP Code: 200, Result: 403.43999999999994
+2025-10-15 15:30:59,132 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,139 - Endpoint: subtract, Inputs: (-45.56, -54.12), IP: 127.0.0.1, HTTP Code: 200, Result: 8.559999999999995
+2025-10-15 15:30:59,149 - Endpoint: add, Inputs: (2.0, -68.0), IP: 127.0.0.1, HTTP Code: 200, Result: -66.0
+2025-10-15 15:30:59,154 - Endpoint: divide, Inputs: (15.0, 10.65), IP: 127.0.0.1, HTTP Code: 200, Result: 1.408450704225352
+2025-10-15 15:30:59,158 - Endpoint: divide, Inputs: (16.0, 33.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.48484848484848486
+2025-10-15 15:30:59,165 - Endpoint: multiply, Inputs: (95.34, 43.0), IP: 127.0.0.1, HTTP Code: 200, Result: 4099.62
+2025-10-15 15:30:59,172 - Endpoint: subtract, Inputs: (14.47, 45.29), IP: 127.0.0.1, HTTP Code: 200, Result: -30.82
+2025-10-15 15:30:59,172 - Endpoint: divide, Inputs: (-66.72, 45.6), IP: 127.0.0.1, HTTP Code: 200, Result: -1.463157894736842
+2025-10-15 15:30:59,186 - Endpoint: divide, Inputs: (-2.75, -52.69), IP: 127.0.0.1, HTTP Code: 200, Result: 0.05219206680584551
+2025-10-15 15:30:59,190 - Endpoint: multiply, Inputs: (-27.22, 55.71), IP: 127.0.0.1, HTTP Code: 200, Result: -1516.4261999999999
+2025-10-15 15:30:59,198 - Endpoint: multiply, Inputs: (-69.64, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.0
+2025-10-15 15:30:59,202 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,207 - Endpoint: divide, Inputs: (51.63, 44.11), IP: 127.0.0.1, HTTP Code: 200, Result: 1.1704828836998413
+2025-10-15 15:30:59,216 - Endpoint: multiply, Inputs: (9.16, -98.59), IP: 127.0.0.1, HTTP Code: 200, Result: -903.0844000000001
+2025-10-15 15:30:59,220 - Endpoint: subtract, Inputs: (-66.67, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -66.67
+2025-10-15 15:30:59,224 - Endpoint: subtract, Inputs: (-44.3, 70.0), IP: 127.0.0.1, HTTP Code: 200, Result: -114.3
+2025-10-15 15:30:59,231 - Endpoint: subtract, Inputs: (52.54, 36.61), IP: 127.0.0.1, HTTP Code: 200, Result: 15.93
+2025-10-15 15:30:59,235 - Endpoint: subtract, Inputs: (56.0, -34.46), IP: 127.0.0.1, HTTP Code: 200, Result: 90.46000000000001
+2025-10-15 15:30:59,235 - Endpoint: multiply, Inputs: (-20.25, WDG), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,246 - Endpoint: subtract, Inputs: (36.22, 22.07), IP: 127.0.0.1, HTTP Code: 200, Result: 14.149999999999999
+2025-10-15 15:30:59,251 - Endpoint: multiply, Inputs: (30.0, -74.8), IP: 127.0.0.1, HTTP Code: 200, Result: -2244.0
+2025-10-15 15:30:59,256 - Endpoint: subtract, Inputs: (-82.21, -24.26), IP: 127.0.0.1, HTTP Code: 200, Result: -57.94999999999999
+2025-10-15 15:30:59,260 - Endpoint: subtract, Inputs: (83.71, -87.34), IP: 127.0.0.1, HTTP Code: 200, Result: 171.05
+2025-10-15 15:30:59,265 - Endpoint: multiply, Inputs: (-37.0, -58.03), IP: 127.0.0.1, HTTP Code: 200, Result: 2147.11
+2025-10-15 15:30:59,270 - Endpoint: add, Inputs: (43.78, 82.08), IP: 127.0.0.1, HTTP Code: 200, Result: 125.86
+2025-10-15 15:30:59,274 - Endpoint: subtract, Inputs: (-85.0, 18.87), IP: 127.0.0.1, HTTP Code: 200, Result: -103.87
+2025-10-15 15:30:59,281 - Endpoint: multiply, Inputs: (-11.65, 54.03), IP: 127.0.0.1, HTTP Code: 200, Result: -629.4495000000001
+2025-10-15 15:30:59,288 - Endpoint: divide, Inputs: (0.87, -29.73), IP: 127.0.0.1, HTTP Code: 200, Result: -0.02926337033299697
+2025-10-15 15:30:59,292 - Endpoint: subtract, Inputs: (-78.0, 60.0), IP: 127.0.0.1, HTTP Code: 200, Result: -138.0
+2025-10-15 15:30:59,294 - Endpoint: divide, Inputs: (-72, cz), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,302 - Endpoint: divide, Inputs: (98.75, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:59,303 - Endpoint: add, Inputs: (r, -11), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,310 - Endpoint: add, Inputs: (89.87, -11.0), IP: 127.0.0.1, HTTP Code: 200, Result: 78.87
+2025-10-15 15:30:59,315 - Endpoint: subtract, Inputs: (36.84, 93.42), IP: 127.0.0.1, HTTP Code: 200, Result: -56.58
+2025-10-15 15:30:59,320 - Endpoint: subtract, Inputs: (-2.3, 70.0), IP: 127.0.0.1, HTTP Code: 200, Result: -72.3
+2025-10-15 15:30:59,326 - Endpoint: multiply, Inputs: (-6.0, 16.0), IP: 127.0.0.1, HTTP Code: 200, Result: -96.0
+2025-10-15 15:30:59,330 - Endpoint: divide, Inputs: (-81, eFg), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,335 - Endpoint: divide, Inputs: (100.0, -88.3), IP: 127.0.0.1, HTTP Code: 200, Result: -1.1325028312570782
+2025-10-15 15:30:59,339 - Endpoint: multiply, Inputs: (9.0, 92.48), IP: 127.0.0.1, HTTP Code: 200, Result: 832.32
+2025-10-15 15:30:59,345 - Endpoint: subtract, Inputs: (-80.11, Is), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,350 - Endpoint: add, Inputs: (68.55, 18.0), IP: 127.0.0.1, HTTP Code: 200, Result: 86.55
+2025-10-15 15:30:59,354 - Endpoint: subtract, Inputs: (85.03, 39.87), IP: 127.0.0.1, HTTP Code: 200, Result: 45.160000000000004
+2025-10-15 15:30:59,359 - Endpoint: add, Inputs: (41.77, -90.66), IP: 127.0.0.1, HTTP Code: 200, Result: -48.88999999999999
+2025-10-15 15:30:59,366 - Endpoint: divide, Inputs: (53.0, -70.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.7571428571428571
+2025-10-15 15:30:59,370 - Endpoint: subtract, Inputs: (84.69, -53.04), IP: 127.0.0.1, HTTP Code: 200, Result: 137.73
+2025-10-15 15:30:59,374 - Endpoint: divide, Inputs: (H, -94), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,381 - Endpoint: multiply, Inputs: (-21.06, 81.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1705.86
+2025-10-15 15:30:59,384 - Endpoint: divide, Inputs: (-79.51, -84.78), IP: 127.0.0.1, HTTP Code: 200, Result: 0.9378391129983488
+2025-10-15 15:30:59,389 - Endpoint: multiply, Inputs: (-42.95, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.0
+2025-10-15 15:30:59,389 - Endpoint: subtract, Inputs: (45.0, 15.22), IP: 127.0.0.1, HTTP Code: 200, Result: 29.78
+2025-10-15 15:30:59,399 - Endpoint: multiply, Inputs: (-74, QT), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,402 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,409 - Endpoint: add, Inputs: (-52.61, 51.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1.6099999999999994
+2025-10-15 15:30:59,413 - Endpoint: multiply, Inputs: (26.0, 78.4), IP: 127.0.0.1, HTTP Code: 200, Result: 2038.4
+2025-10-15 15:30:59,420 - Endpoint: divide, Inputs: (49.02, 58.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.8451724137931035
+2025-10-15 15:30:59,425 - Endpoint: add, Inputs: (97.96, -58.0), IP: 127.0.0.1, HTTP Code: 200, Result: 39.959999999999994
+2025-10-15 15:30:59,429 - Endpoint: subtract, Inputs: (3.42, 31.41), IP: 127.0.0.1, HTTP Code: 200, Result: -27.990000000000002
+2025-10-15 15:30:59,436 - Endpoint: add, Inputs: (-21.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -21.0
+2025-10-15 15:30:59,440 - Endpoint: multiply, Inputs: (25.94, -87.51), IP: 127.0.0.1, HTTP Code: 200, Result: -2270.0094000000004
+2025-10-15 15:30:59,444 - Endpoint: add, Inputs: (-87.91, 45.94), IP: 127.0.0.1, HTTP Code: 200, Result: -41.97
+2025-10-15 15:30:59,449 - Endpoint: add, Inputs: (74.45, r), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,455 - Endpoint: divide, Inputs: (52.83, -93.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.5680645161290322
+2025-10-15 15:30:59,459 - Endpoint: subtract, Inputs: (45.0, 83.55), IP: 127.0.0.1, HTTP Code: 200, Result: -38.55
+2025-10-15 15:30:59,466 - Endpoint: subtract, Inputs: (-1.8, 15.5), IP: 127.0.0.1, HTTP Code: 200, Result: -17.3
+2025-10-15 15:30:59,471 - Endpoint: multiply, Inputs: (12.0, 48.55), IP: 127.0.0.1, HTTP Code: 200, Result: 582.5999999999999
+2025-10-15 15:30:59,477 - Endpoint: add, Inputs: (-21.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -21.0
+2025-10-15 15:30:59,482 - Endpoint: subtract, Inputs: (-67.0, 38.12), IP: 127.0.0.1, HTTP Code: 200, Result: -105.12
+2025-10-15 15:30:59,487 - Endpoint: multiply, Inputs: (-8.0, -17.96), IP: 127.0.0.1, HTTP Code: 200, Result: 143.68
+2025-10-15 15:30:59,493 - Endpoint: add, Inputs: (34.0, 94.19), IP: 127.0.0.1, HTTP Code: 200, Result: 128.19
+2025-10-15 15:30:59,499 - Endpoint: add, Inputs: (55.42, 18.42), IP: 127.0.0.1, HTTP Code: 200, Result: 73.84
+2025-10-15 15:30:59,505 - Endpoint: divide, Inputs: (-74.14, 98.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.7565306122448979
+2025-10-15 15:30:59,511 - Endpoint: add, Inputs: (-100.0, 13.0), IP: 127.0.0.1, HTTP Code: 200, Result: -87.0
+2025-10-15 15:30:59,518 - Endpoint: multiply, Inputs: (-24.0, -91.72), IP: 127.0.0.1, HTTP Code: 200, Result: 2201.2799999999997
+2025-10-15 15:30:59,523 - Endpoint: divide, Inputs: (-90.89, -65.19), IP: 127.0.0.1, HTTP Code: 200, Result: 1.3942322442092345
+2025-10-15 15:30:59,529 - Endpoint: subtract, Inputs: (-31.0, -59.46), IP: 127.0.0.1, HTTP Code: 200, Result: 28.46
+2025-10-15 15:30:59,532 - Endpoint: divide, Inputs: (r, 5.88), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,532 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,549 - Endpoint: multiply, Inputs: (6, NbFw), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,554 - Endpoint: multiply, Inputs: (13.15, 23.66), IP: 127.0.0.1, HTTP Code: 200, Result: 311.129
+2025-10-15 15:30:59,561 - Endpoint: multiply, Inputs: (50.0, -16.45), IP: 127.0.0.1, HTTP Code: 200, Result: -822.5
+2025-10-15 15:30:59,569 - Endpoint: multiply, Inputs: (-38.04, 6.87), IP: 127.0.0.1, HTTP Code: 200, Result: -261.3348
+2025-10-15 15:30:59,574 - Endpoint: divide, Inputs: (-75.63, -89.71), IP: 127.0.0.1, HTTP Code: 200, Result: 0.8430498272210456
+2025-10-15 15:30:59,581 - Endpoint: add, Inputs: (-99.0, 26.18), IP: 127.0.0.1, HTTP Code: 200, Result: -72.82
+2025-10-15 15:30:59,586 - Endpoint: multiply, Inputs: (89.59, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:30:59,592 - Endpoint: add, Inputs: (DqfF, 57.84), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,598 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,603 - Endpoint: subtract, Inputs: (-27.3, 7.95), IP: 127.0.0.1, HTTP Code: 200, Result: -35.25
+2025-10-15 15:30:59,603 - Endpoint: subtract, Inputs: (-99.09, -90.01), IP: 127.0.0.1, HTTP Code: 200, Result: -9.079999999999998
+2025-10-15 15:30:59,615 - Endpoint: multiply, Inputs: (9.0, -25.55), IP: 127.0.0.1, HTTP Code: 200, Result: -229.95000000000002
+2025-10-15 15:30:59,618 - Endpoint: divide, Inputs: (91.40, ap), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,623 - Endpoint: multiply, Inputs: (80.36, -71.33), IP: 127.0.0.1, HTTP Code: 200, Result: -5732.0788
+2025-10-15 15:30:59,623 - Endpoint: divide, Inputs: (-61.57, -54.32), IP: 127.0.0.1, HTTP Code: 200, Result: 1.1334683357879234
+2025-10-15 15:30:59,632 - Endpoint: subtract, Inputs: (-8.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -8.0
+2025-10-15 15:30:59,638 - Endpoint: subtract, Inputs: (-58.0, 84.0), IP: 127.0.0.1, HTTP Code: 200, Result: -142.0
+2025-10-15 15:30:59,642 - Endpoint: add, Inputs: (31.16, -55.72), IP: 127.0.0.1, HTTP Code: 200, Result: -24.56
+2025-10-15 15:30:59,647 - Endpoint: multiply, Inputs: (-52.0, -85.57), IP: 127.0.0.1, HTTP Code: 200, Result: 4449.639999999999
+2025-10-15 15:30:59,650 - Endpoint: subtract, Inputs: (44.97, -53.44), IP: 127.0.0.1, HTTP Code: 200, Result: 98.41
+2025-10-15 15:30:59,652 - Endpoint: subtract, Inputs: (ZcR, 86), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,659 - Endpoint: add, Inputs: (-20.0, 8.0), IP: 127.0.0.1, HTTP Code: 200, Result: -12.0
+2025-10-15 15:30:59,659 - Endpoint: add, Inputs: (-16.36, 96.22), IP: 127.0.0.1, HTTP Code: 200, Result: 79.86
+2025-10-15 15:30:59,668 - Endpoint: subtract, Inputs: (-49.31, 44.0), IP: 127.0.0.1, HTTP Code: 200, Result: -93.31
+2025-10-15 15:30:59,671 - Endpoint: divide, Inputs: (94.09, 37.81), IP: 127.0.0.1, HTTP Code: 200, Result: 2.48849510711452
+2025-10-15 15:30:59,677 - Endpoint: multiply, Inputs: (84.09, -8.0), IP: 127.0.0.1, HTTP Code: 200, Result: -672.72
+2025-10-15 15:30:59,679 - Endpoint: divide, Inputs: (29.08, 39.92), IP: 127.0.0.1, HTTP Code: 200, Result: 0.7284569138276552
+2025-10-15 15:30:59,685 - Endpoint: add, Inputs: (75.0, 70.82), IP: 127.0.0.1, HTTP Code: 200, Result: 145.82
+2025-10-15 15:30:59,691 - Endpoint: multiply, Inputs: (-41.86, 36.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1506.96
+2025-10-15 15:30:59,696 - Endpoint: multiply, Inputs: (74.74, -58.3), IP: 127.0.0.1, HTTP Code: 200, Result: -4357.342
+2025-10-15 15:30:59,699 - Endpoint: subtract, Inputs: (21.0, 25.63), IP: 127.0.0.1, HTTP Code: 200, Result: -4.629999999999999
+2025-10-15 15:30:59,704 - Endpoint: subtract, Inputs: (42.46, 51.88), IP: 127.0.0.1, HTTP Code: 200, Result: -9.420000000000002
+2025-10-15 15:30:59,706 - Endpoint: subtract, Inputs: (54.0, -21.46), IP: 127.0.0.1, HTTP Code: 200, Result: 75.46000000000001
+2025-10-15 15:30:59,716 - Endpoint: subtract, Inputs: (32.0, -81.12), IP: 127.0.0.1, HTTP Code: 200, Result: 113.12
+2025-10-15 15:30:59,720 - Endpoint: add, Inputs: (63.57, -47.1), IP: 127.0.0.1, HTTP Code: 200, Result: 16.47
+2025-10-15 15:30:59,726 - Endpoint: add, Inputs: (-85.51, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -85.51
+2025-10-15 15:30:59,732 - Endpoint: add, Inputs: (-22.64, 92.83), IP: 127.0.0.1, HTTP Code: 200, Result: 70.19
+2025-10-15 15:30:59,737 - Endpoint: multiply, Inputs: (-5.39, 52.0), IP: 127.0.0.1, HTTP Code: 200, Result: -280.28
+2025-10-15 15:30:59,744 - Endpoint: add, Inputs: (38.25, -69.2), IP: 127.0.0.1, HTTP Code: 200, Result: -30.950000000000003
+2025-10-15 15:30:59,747 - Endpoint: subtract, Inputs: (-11.65, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -11.65
+2025-10-15 15:30:59,753 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,758 - Endpoint: multiply, Inputs: (-6, EYkF), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,763 - Endpoint: divide, Inputs: (28.83, 19.89), IP: 127.0.0.1, HTTP Code: 200, Result: 1.44947209653092
+2025-10-15 15:30:59,767 - Endpoint: multiply, Inputs: (26.28, -36.82), IP: 127.0.0.1, HTTP Code: 200, Result: -967.6296000000001
+2025-10-15 15:30:59,773 - Endpoint: subtract, Inputs: (94.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 94.0
+2025-10-15 15:30:59,777 - Endpoint: add, Inputs: (-81.23, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -81.23
+2025-10-15 15:30:59,783 - Endpoint: multiply, Inputs: (-43.0, 93.08), IP: 127.0.0.1, HTTP Code: 200, Result: -4002.44
+2025-10-15 15:30:59,789 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,793 - Endpoint: divide, Inputs: (26.04, 76.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.3426315789473684
+2025-10-15 15:30:59,802 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,804 - Endpoint: subtract, Inputs: (-21.69, o), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,808 - Endpoint: subtract, Inputs: (-48.02, -67.75), IP: 127.0.0.1, HTTP Code: 200, Result: 19.729999999999997
+2025-10-15 15:30:59,815 - Endpoint: divide, Inputs: (66.47, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
+2025-10-15 15:30:59,821 - Endpoint: add, Inputs: (11.6, 31.2), IP: 127.0.0.1, HTTP Code: 200, Result: 42.8
+2025-10-15 15:30:59,826 - Endpoint: multiply, Inputs: (-62.0, 34.65), IP: 127.0.0.1, HTTP Code: 200, Result: -2148.2999999999997
+2025-10-15 15:30:59,832 - Endpoint: add, Inputs: (39.37, 53.54), IP: 127.0.0.1, HTTP Code: 200, Result: 92.91
+2025-10-15 15:30:59,840 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,844 - Endpoint: add, Inputs: (36.0, -3.73), IP: 127.0.0.1, HTTP Code: 200, Result: 32.27
+2025-10-15 15:30:59,849 - Endpoint: divide, Inputs: (63.31, 10.88), IP: 127.0.0.1, HTTP Code: 200, Result: 5.818933823529411
+2025-10-15 15:30:59,855 - Endpoint: add, Inputs: (27.52, -15.0), IP: 127.0.0.1, HTTP Code: 200, Result: 12.52
+2025-10-15 15:30:59,859 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,865 - Endpoint: add, Inputs: (-62.0, 0.19), IP: 127.0.0.1, HTTP Code: 200, Result: -61.81
+2025-10-15 15:30:59,868 - Endpoint: add, Inputs: (-97.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -97.0
+2025-10-15 15:30:59,875 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,878 - Endpoint: multiply, Inputs: (16.39, -1.29), IP: 127.0.0.1, HTTP Code: 200, Result: -21.1431
+2025-10-15 15:30:59,885 - Endpoint: multiply, Inputs: (IDIG, -99), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,890 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,894 - Endpoint: subtract, Inputs: (54.6, 96.0), IP: 127.0.0.1, HTTP Code: 200, Result: -41.4
+2025-10-15 15:30:59,902 - Endpoint: divide, Inputs: (33.0, 52.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.6346153846153846
+2025-10-15 15:30:59,907 - Endpoint: multiply, Inputs: (37.0, -54.58), IP: 127.0.0.1, HTTP Code: 200, Result: -2019.46
+2025-10-15 15:30:59,913 - Endpoint: multiply, Inputs: (-23.32, -49.33), IP: 127.0.0.1, HTTP Code: 200, Result: 1150.3756
+2025-10-15 15:30:59,917 - Endpoint: add, Inputs: (18.37, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 18.37
+2025-10-15 15:30:59,925 - Endpoint: subtract, Inputs: (-5.08, 84.35), IP: 127.0.0.1, HTTP Code: 200, Result: -89.42999999999999
+2025-10-15 15:30:59,930 - Endpoint: multiply, Inputs: (92.2, 20.8), IP: 127.0.0.1, HTTP Code: 200, Result: 1917.7600000000002
+2025-10-15 15:30:59,937 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,939 - Endpoint: add, Inputs: (88.46, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 88.46
+2025-10-15 15:30:59,947 - Endpoint: subtract, Inputs: (39.0, 54.46), IP: 127.0.0.1, HTTP Code: 200, Result: -15.46
+2025-10-15 15:30:59,951 - Endpoint: subtract, Inputs: (15.17, H), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:30:59,957 - Endpoint: subtract, Inputs: (-22.38, 20.26), IP: 127.0.0.1, HTTP Code: 200, Result: -42.64
+2025-10-15 15:30:59,962 - Endpoint: subtract, Inputs: (-69.76, 1.29), IP: 127.0.0.1, HTTP Code: 200, Result: -71.05000000000001
+2025-10-15 15:30:59,967 - Endpoint: multiply, Inputs: (79.11, 78.0), IP: 127.0.0.1, HTTP Code: 200, Result: 6170.58
+2025-10-15 15:30:59,974 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,978 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:30:59,982 - Endpoint: subtract, Inputs: (77.87, 37.0), IP: 127.0.0.1, HTTP Code: 200, Result: 40.870000000000005
+2025-10-15 15:30:59,988 - Endpoint: multiply, Inputs: (-21.0, -96.0), IP: 127.0.0.1, HTTP Code: 200, Result: 2016.0
+2025-10-15 15:30:59,993 - Endpoint: subtract, Inputs: (-5.57, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -5.57
+2025-10-15 15:30:59,998 - Endpoint: subtract, Inputs: (-55.57, -13.0), IP: 127.0.0.1, HTTP Code: 200, Result: -42.57
+2025-10-15 15:31:00,002 - Endpoint: subtract, Inputs: (32.04, 34.99), IP: 127.0.0.1, HTTP Code: 200, Result: -2.950000000000003
+2025-10-15 15:31:00,002 - Endpoint: subtract, Inputs: (-84.7, -75.53), IP: 127.0.0.1, HTTP Code: 200, Result: -9.170000000000002
+2025-10-15 15:31:00,002 - Endpoint: multiply, Inputs: (18.83, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:31:00,014 - Endpoint: subtract, Inputs: (13.17, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 13.17
+2025-10-15 15:31:00,017 - Endpoint: divide, Inputs: (89.88, 82.92), IP: 127.0.0.1, HTTP Code: 200, Result: 1.0839363241678726
+2025-10-15 15:31:00,017 - Endpoint: subtract, Inputs: (9.23, 64.53), IP: 127.0.0.1, HTTP Code: 200, Result: -55.3
+2025-10-15 15:31:00,032 - Endpoint: subtract, Inputs: (-15.18, -58.62), IP: 127.0.0.1, HTTP Code: 200, Result: 43.44
+2025-10-15 15:31:00,039 - Endpoint: add, Inputs: (-43.44, -84.39), IP: 127.0.0.1, HTTP Code: 200, Result: -127.83
+2025-10-15 15:31:00,042 - Endpoint: add, Inputs: (67.03, 82.0), IP: 127.0.0.1, HTTP Code: 200, Result: 149.03
+2025-10-15 15:31:00,046 - Endpoint: add, Inputs: (11.82, Flwk), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,049 - Endpoint: add, Inputs: (-84.17, 92.0), IP: 127.0.0.1, HTTP Code: 200, Result: 7.829999999999998
+2025-10-15 15:31:00,054 - Endpoint: subtract, Inputs: (54.9, -58.0), IP: 127.0.0.1, HTTP Code: 200, Result: 112.9
+2025-10-15 15:31:00,060 - Endpoint: add, Inputs: (-73.22, -43.02), IP: 127.0.0.1, HTTP Code: 200, Result: -116.24000000000001
+2025-10-15 15:31:00,067 - Endpoint: divide, Inputs: (-35.0, 10.0), IP: 127.0.0.1, HTTP Code: 200, Result: -3.5
+2025-10-15 15:31:00,073 - Endpoint: multiply, Inputs: (6.69, -1.99), IP: 127.0.0.1, HTTP Code: 200, Result: -13.3131
+2025-10-15 15:31:00,079 - Endpoint: divide, Inputs: (-75.0, -82.62), IP: 127.0.0.1, HTTP Code: 200, Result: 0.9077705156136529
+2025-10-15 15:31:00,084 - Endpoint: divide, Inputs: (24.97, 3.41), IP: 127.0.0.1, HTTP Code: 200, Result: 7.32258064516129
+2025-10-15 15:31:00,091 - Endpoint: multiply, Inputs: (76.88, 17.0), IP: 127.0.0.1, HTTP Code: 200, Result: 1306.96
+2025-10-15 15:31:00,094 - Endpoint: divide, Inputs: (-28.58, -85.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.336235294117647
+2025-10-15 15:31:00,100 - Endpoint: add, Inputs: (-81.75, 98.0), IP: 127.0.0.1, HTTP Code: 200, Result: 16.25
+2025-10-15 15:31:00,100 - Endpoint: multiply, Inputs: (97.0, -25.95), IP: 127.0.0.1, HTTP Code: 200, Result: -2517.15
+2025-10-15 15:31:00,108 - Endpoint: subtract, Inputs: (-12.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -12.0
+2025-10-15 15:31:00,112 - Endpoint: add, Inputs: (-3.45, -64.0), IP: 127.0.0.1, HTTP Code: 200, Result: -67.45
+2025-10-15 15:31:00,116 - Endpoint: divide, Inputs: (60.0, -44.97), IP: 127.0.0.1, HTTP Code: 200, Result: -1.33422281521014
+2025-10-15 15:31:00,121 - Endpoint: subtract, Inputs: (-41.0, -81.47), IP: 127.0.0.1, HTTP Code: 200, Result: 40.47
+2025-10-15 15:31:00,126 - Endpoint: divide, Inputs: (97.8, -55.17), IP: 127.0.0.1, HTTP Code: 200, Result: -1.7727025557368135
+2025-10-15 15:31:00,126 - Endpoint: multiply, Inputs: (-24.62, -68.9), IP: 127.0.0.1, HTTP Code: 200, Result: 1696.3180000000002
+2025-10-15 15:31:00,135 - Endpoint: multiply, Inputs: (16.0, -41.0), IP: 127.0.0.1, HTTP Code: 200, Result: -656.0
+2025-10-15 15:31:00,141 - Endpoint: add, Inputs: (-58.48, -99.49), IP: 127.0.0.1, HTTP Code: 200, Result: -157.97
+2025-10-15 15:31:00,141 - Endpoint: add, Inputs: (61.7, -20.0), IP: 127.0.0.1, HTTP Code: 200, Result: 41.7
+2025-10-15 15:31:00,152 - Endpoint: subtract, Inputs: (-41.84, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -41.84
+2025-10-15 15:31:00,157 - Endpoint: multiply, Inputs: (-41.03, 34.13), IP: 127.0.0.1, HTTP Code: 200, Result: -1400.3539
+2025-10-15 15:31:00,161 - Endpoint: add, Inputs: (-49, r), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,167 - Endpoint: multiply, Inputs: (-38.09, -37.0), IP: 127.0.0.1, HTTP Code: 200, Result: 1409.3300000000002
+2025-10-15 15:31:00,174 - Endpoint: subtract, Inputs: (-1.0, -70.88), IP: 127.0.0.1, HTTP Code: 200, Result: 69.88
+2025-10-15 15:31:00,178 - Endpoint: divide, Inputs: (11.81, 53.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.22283018867924528
+2025-10-15 15:31:00,180 - Endpoint: divide, Inputs: (-55.85, -84.13), IP: 127.0.0.1, HTTP Code: 200, Result: 0.6638535599667182
+2025-10-15 15:31:00,187 - Endpoint: multiply, Inputs: (41.86, -74.41), IP: 127.0.0.1, HTTP Code: 200, Result: -3114.8026
+2025-10-15 15:31:00,193 - Endpoint: add, Inputs: (21.02, -98.01), IP: 127.0.0.1, HTTP Code: 200, Result: -76.99000000000001
+2025-10-15 15:31:00,196 - Endpoint: multiply, Inputs: (59.0, -49.0), IP: 127.0.0.1, HTTP Code: 200, Result: -2891.0
+2025-10-15 15:31:00,202 - Endpoint: subtract, Inputs: (67.04, -84.0), IP: 127.0.0.1, HTTP Code: 200, Result: 151.04000000000002
+2025-10-15 15:31:00,206 - Endpoint: subtract, Inputs: (33.39, 15.47), IP: 127.0.0.1, HTTP Code: 200, Result: 17.92
+2025-10-15 15:31:00,210 - Endpoint: multiply, Inputs: (44.2, 17.71), IP: 127.0.0.1, HTTP Code: 200, Result: 782.782
+2025-10-15 15:31:00,210 - Endpoint: subtract, Inputs: (31.0, -42.17), IP: 127.0.0.1, HTTP Code: 200, Result: 73.17
+2025-10-15 15:31:00,220 - Endpoint: multiply, Inputs: (-62.19, 16.15), IP: 127.0.0.1, HTTP Code: 200, Result: -1004.3684999999999
+2025-10-15 15:31:00,225 - Endpoint: subtract, Inputs: (88.66, -96.0), IP: 127.0.0.1, HTTP Code: 200, Result: 184.66
+2025-10-15 15:31:00,230 - Endpoint: multiply, Inputs: (7.91, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.0
+2025-10-15 15:31:00,235 - Endpoint: divide, Inputs: (-52.33, -13.28), IP: 127.0.0.1, HTTP Code: 200, Result: 3.940512048192771
+2025-10-15 15:31:00,241 - Endpoint: subtract, Inputs: (23.48, -28.0), IP: 127.0.0.1, HTTP Code: 200, Result: 51.480000000000004
+2025-10-15 15:31:00,247 - Endpoint: add, Inputs: (28.88, -27.26), IP: 127.0.0.1, HTTP Code: 200, Result: 1.6199999999999974
+2025-10-15 15:31:00,252 - Endpoint: add, Inputs: (85.8, 34.84), IP: 127.0.0.1, HTTP Code: 200, Result: 120.64
+2025-10-15 15:31:00,259 - Endpoint: divide, Inputs: (-66.81, 72.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.9279166666666667
+2025-10-15 15:31:00,263 - Endpoint: subtract, Inputs: (-99.93, 93.18), IP: 127.0.0.1, HTTP Code: 200, Result: -193.11
+2025-10-15 15:31:00,270 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:31:00,270 - Endpoint: add, Inputs: (49.17, 28.07), IP: 127.0.0.1, HTTP Code: 200, Result: 77.24000000000001
+2025-10-15 15:31:00,281 - Endpoint: subtract, Inputs: (31.0, 85.85), IP: 127.0.0.1, HTTP Code: 200, Result: -54.849999999999994
+2025-10-15 15:31:00,287 - Endpoint: multiply, Inputs: (-66.43, -17.93), IP: 127.0.0.1, HTTP Code: 200, Result: 1191.0899000000002
+2025-10-15 15:31:00,290 - Endpoint: divide, Inputs: (40.17, -36.57), IP: 127.0.0.1, HTTP Code: 200, Result: -1.0984413453650534
+2025-10-15 15:31:00,297 - Endpoint: multiply, Inputs: (TpIx, 28.75), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,300 - Endpoint: multiply, Inputs: (-66.03, 44.46), IP: 127.0.0.1, HTTP Code: 200, Result: -2935.6938
+2025-10-15 15:31:00,307 - Endpoint: divide, Inputs: (-23.0, 2.8), IP: 127.0.0.1, HTTP Code: 200, Result: -8.214285714285715
+2025-10-15 15:31:00,312 - Endpoint: add, Inputs: (-44.08, 16.06), IP: 127.0.0.1, HTTP Code: 200, Result: -28.02
+2025-10-15 15:31:00,317 - Endpoint: add, Inputs: (-71.64, -17.99), IP: 127.0.0.1, HTTP Code: 200, Result: -89.63
+2025-10-15 15:31:00,324 - Endpoint: divide, Inputs: (-70.0, -71.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.9859154929577465
+2025-10-15 15:31:00,324 - Endpoint: multiply, Inputs: (78.0, 3.26), IP: 127.0.0.1, HTTP Code: 200, Result: 254.27999999999997
+2025-10-15 15:31:00,333 - Endpoint: subtract, Inputs: (50.90, iOPL), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,340 - Endpoint: subtract, Inputs: (78.95, 39.0), IP: 127.0.0.1, HTTP Code: 200, Result: 39.95
+2025-10-15 15:31:00,342 - Endpoint: subtract, Inputs: (-48.1, -72.85), IP: 127.0.0.1, HTTP Code: 200, Result: 24.749999999999993
+2025-10-15 15:31:00,348 - Endpoint: divide, Inputs: (65.51, -62.25), IP: 127.0.0.1, HTTP Code: 200, Result: -1.0523694779116466
+2025-10-15 15:31:00,350 - Endpoint: add, Inputs: (-31.92, 10.1), IP: 127.0.0.1, HTTP Code: 200, Result: -21.82
+2025-10-15 15:31:00,358 - Endpoint: multiply, Inputs: (83.56, 81.18), IP: 127.0.0.1, HTTP Code: 200, Result: 6783.4008
+2025-10-15 15:31:00,365 - Endpoint: multiply, Inputs: (-51.64, 94.0), IP: 127.0.0.1, HTTP Code: 200, Result: -4854.16
+2025-10-15 15:31:00,371 - Endpoint: divide, Inputs: (o, 89.06), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,375 - Endpoint: multiply, Inputs: (-46.73, -54.48), IP: 127.0.0.1, HTTP Code: 200, Result: 2545.8504
+2025-10-15 15:31:00,379 - Endpoint: subtract, Inputs: (-45.81, -43.72), IP: 127.0.0.1, HTTP Code: 200, Result: -2.0900000000000034
+2025-10-15 15:31:00,383 - Endpoint: multiply, Inputs: (-23.38, 53.0), IP: 127.0.0.1, HTTP Code: 200, Result: -1239.1399999999999
+2025-10-15 15:31:00,388 - Endpoint: add, Inputs: (26.21, -5.43), IP: 127.0.0.1, HTTP Code: 200, Result: 20.78
+2025-10-15 15:31:00,388 - Endpoint: subtract, Inputs: (DDAS, 78.04), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,395 - Endpoint: subtract, Inputs: (53.98, -59.0), IP: 127.0.0.1, HTTP Code: 200, Result: 112.97999999999999
+2025-10-15 15:31:00,401 - Endpoint: multiply, Inputs: (60.71, 67.58), IP: 127.0.0.1, HTTP Code: 200, Result: 4102.7818
+2025-10-15 15:31:00,405 - Endpoint: subtract, Inputs: (63.69, 78.73), IP: 127.0.0.1, HTTP Code: 200, Result: -15.040000000000006
+2025-10-15 15:31:00,419 - Endpoint: /foo/bar, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:31:00,431 - Endpoint: divide, Inputs: (49.58, -69.96), IP: 127.0.0.1, HTTP Code: 200, Result: -0.7086906803887937
+2025-10-15 15:31:00,436 - Endpoint: add, Inputs: (-40.0, -95.56), IP: 127.0.0.1, HTTP Code: 200, Result: -135.56
+2025-10-15 15:31:00,451 - Endpoint: subtract, Inputs: (-13.0, 45.73), IP: 127.0.0.1, HTTP Code: 200, Result: -58.73
+2025-10-15 15:31:00,461 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:31:00,467 - Endpoint: add, Inputs: (-86.63, -48.69), IP: 127.0.0.1, HTTP Code: 200, Result: -135.32
+2025-10-15 15:31:00,473 - Endpoint: multiply, Inputs: (53.05, 41.32), IP: 127.0.0.1, HTTP Code: 200, Result: 2192.026
+2025-10-15 15:31:00,478 - Endpoint: subtract, Inputs: (-5.19, -19.0), IP: 127.0.0.1, HTTP Code: 200, Result: 13.809999999999999
+2025-10-15 15:31:00,487 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:31:00,493 - Endpoint: add, Inputs: (-47.76, 36.29), IP: 127.0.0.1, HTTP Code: 200, Result: -11.469999999999999
+2025-10-15 15:31:00,501 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:31:00,507 - Endpoint: subtract, Inputs: (41.01, 93.89), IP: 127.0.0.1, HTTP Code: 200, Result: -52.88
+2025-10-15 15:31:00,507 - Endpoint: multiply, Inputs: (-21.1, 24.51), IP: 127.0.0.1, HTTP Code: 200, Result: -517.1610000000001
+2025-10-15 15:31:00,516 - Endpoint: subtract, Inputs: (ECo, 16.91), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,519 - Endpoint: multiply, Inputs: (-98.28, 74.0), IP: 127.0.0.1, HTTP Code: 200, Result: -7272.72
+2025-10-15 15:31:00,523 - Endpoint: add, Inputs: (96.6, -65.0), IP: 127.0.0.1, HTTP Code: 200, Result: 31.599999999999994
+2025-10-15 15:31:00,523 - Endpoint: subtract, Inputs: (45.96, 88.57), IP: 127.0.0.1, HTTP Code: 200, Result: -42.60999999999999
+2025-10-15 15:31:00,532 - Endpoint: divide, Inputs: (LfF, 13), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,539 - Endpoint: multiply, Inputs: (-17.76, -20.1), IP: 127.0.0.1, HTTP Code: 200, Result: 356.97600000000006
+2025-10-15 15:31:00,539 - Endpoint: multiply, Inputs: (-85.31, 11.11), IP: 127.0.0.1, HTTP Code: 200, Result: -947.7941
+2025-10-15 15:31:00,545 - Endpoint: subtract, Inputs: (-38.45, -54.36), IP: 127.0.0.1, HTTP Code: 200, Result: 15.909999999999997
+2025-10-15 15:31:00,549 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:31:00,553 - Endpoint: divide, Inputs: (-76.68, -34.87), IP: 127.0.0.1, HTTP Code: 200, Result: 2.1990249498135936
+2025-10-15 15:31:00,559 - Endpoint: divide, Inputs: (-86, DYSn), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,559 - Endpoint: multiply, Inputs: (A, -84.92), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,559 - Endpoint: add, Inputs: (-17.0, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -17.0
+2025-10-15 15:31:00,569 - Endpoint: add, Inputs: (-61.45, -0.18), IP: 127.0.0.1, HTTP Code: 200, Result: -61.63
+2025-10-15 15:31:00,574 - Endpoint: divide, Inputs: (-77.2, 93.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.8301075268817205
+2025-10-15 15:31:00,576 - Endpoint: multiply, Inputs: (-13.7, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.0
+2025-10-15 15:31:00,580 - Endpoint: multiply, Inputs: (-65.52, 60.04), IP: 127.0.0.1, HTTP Code: 200, Result: -3933.8207999999995
+2025-10-15 15:31:00,584 - Endpoint: subtract, Inputs: (61.94, 18.07), IP: 127.0.0.1, HTTP Code: 200, Result: 43.87
+2025-10-15 15:31:00,590 - Endpoint: subtract, Inputs: (-8.0, -99.0), IP: 127.0.0.1, HTTP Code: 200, Result: 91.0
+2025-10-15 15:31:00,592 - Endpoint: multiply, Inputs: (-57.19, 88.0), IP: 127.0.0.1, HTTP Code: 200, Result: -5032.719999999999
+2025-10-15 15:31:00,597 - Endpoint: divide, Inputs: (-44.0, -88.0), IP: 127.0.0.1, HTTP Code: 200, Result: 0.5
+2025-10-15 15:31:00,600 - Endpoint: subtract, Inputs: (75.0, -12.0), IP: 127.0.0.1, HTTP Code: 200, Result: 87.0
+2025-10-15 15:31:00,605 - Endpoint: subtract, Inputs: (-10.0, -16.0), IP: 127.0.0.1, HTTP Code: 200, Result: 6.0
+2025-10-15 15:31:00,610 - Endpoint: multiply, Inputs: (42.0, -5.0), IP: 127.0.0.1, HTTP Code: 200, Result: -210.0
+2025-10-15 15:31:00,613 - Endpoint: multiply, Inputs: (53.0, 2.86), IP: 127.0.0.1, HTTP Code: 200, Result: 151.57999999999998
+2025-10-15 15:31:00,616 - Endpoint: multiply, Inputs: (-19.0, 82.57), IP: 127.0.0.1, HTTP Code: 200, Result: -1568.83
+2025-10-15 15:31:00,621 - Endpoint: add, Inputs: (-74.36, -43.17), IP: 127.0.0.1, HTTP Code: 200, Result: -117.53
+2025-10-15 15:31:00,629 - Endpoint: multiply, Inputs: (-64.79, tBU), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,631 - Endpoint: multiply, Inputs: (14.0, 52.37), IP: 127.0.0.1, HTTP Code: 200, Result: 733.18
+2025-10-15 15:31:00,637 - Endpoint: multiply, Inputs: (25.54, -29.0), IP: 127.0.0.1, HTTP Code: 200, Result: -740.66
+2025-10-15 15:31:00,641 - Endpoint: add, Inputs: (51.59, qXIZ), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,644 - Endpoint: subtract, Inputs: (-20.88, -56.0), IP: 127.0.0.1, HTTP Code: 200, Result: 35.120000000000005
+2025-10-15 15:31:00,651 - Endpoint: subtract, Inputs: (55.93, I), IP: 127.0.0.1, HTTP Code: 500, Result: Invalid input
+2025-10-15 15:31:00,655 - Endpoint: multiply, Inputs: (7.0, -97.39), IP: 127.0.0.1, HTTP Code: 200, Result: -681.73
+2025-10-15 15:31:00,660 - Endpoint: add, Inputs: (86.3, 96.56), IP: 127.0.0.1, HTTP Code: 200, Result: 182.86
+2025-10-15 15:31:00,664 - Endpoint: subtract, Inputs: (-32.0, -70.81), IP: 127.0.0.1, HTTP Code: 200, Result: 38.81
+2025-10-15 15:31:00,668 - Endpoint: multiply, Inputs: (30.15, 74.0), IP: 127.0.0.1, HTTP Code: 200, Result: 2231.1
+2025-10-15 15:31:00,672 - Endpoint: multiply, Inputs: (96.64, 23.8), IP: 127.0.0.1, HTTP Code: 200, Result: 2300.032
+2025-10-15 15:31:00,676 - Endpoint: add, Inputs: (27.84, -93.34), IP: 127.0.0.1, HTTP Code: 200, Result: -65.5
+2025-10-15 15:31:00,683 - Endpoint: divide, Inputs: (29.0, 59.85), IP: 127.0.0.1, HTTP Code: 200, Result: 0.48454469507101083
+2025-10-15 15:31:00,688 - Endpoint: add, Inputs: (63.0, -3.0), IP: 127.0.0.1, HTTP Code: 200, Result: 60.0
+2025-10-15 15:31:00,693 - Endpoint: /unknown, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:31:00,695 - Endpoint: add, Inputs: (-24.0, -20.0), IP: 127.0.0.1, HTTP Code: 200, Result: -44.0
+2025-10-15 15:31:00,699 - Endpoint: add, Inputs: (10.0, 74.56), IP: 127.0.0.1, HTTP Code: 200, Result: 84.56
+2025-10-15 15:31:00,704 - Endpoint: add, Inputs: (-0.1, 0.0), IP: 127.0.0.1, HTTP Code: 200, Result: -0.1
+2025-10-15 15:31:00,708 - Endpoint: subtract, Inputs: (-30.38, -6.0), IP: 127.0.0.1, HTTP Code: 200, Result: -24.38
+2025-10-15 15:31:00,714 - Endpoint: divide, Inputs: (44.0, -86.03), IP: 127.0.0.1, HTTP Code: 200, Result: -0.5114494943624317
+2025-10-15 15:31:00,719 - Endpoint: subtract, Inputs: (-51.0, -36.0), IP: 127.0.0.1, HTTP Code: 200, Result: -15.0
+2025-10-15 15:31:00,724 - Endpoint: subtract, Inputs: (95.0, 54.41), IP: 127.0.0.1, HTTP Code: 200, Result: 40.59
+2025-10-15 15:31:00,728 - Endpoint: multiply, Inputs: (5.0, 98.0), IP: 127.0.0.1, HTTP Code: 200, Result: 490.0
+2025-10-15 15:31:00,732 - Endpoint: /no-such-endpoint, IP: 127.0.0.1, HTTP Code: 404, Result: Not Found
+2025-10-15 15:31:00,736 - Endpoint: add, Inputs: (-87.18, 13.26), IP: 127.0.0.1, HTTP Code: 200, Result: -73.92
+2025-10-15 15:31:00,741 - Endpoint: divide, Inputs: (-97.97, 0.0), IP: 127.0.0.1, HTTP Code: 500, Result: Division by zero
