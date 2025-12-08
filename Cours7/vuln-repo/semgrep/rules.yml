@@ -1,0 +1,6 @@
+rules:
+  - id: python-eval-usage
+    patterns:
+      - pattern: eval(...)
+    message: "Use of eval detected"
+    severity: ERROR
