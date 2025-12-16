@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: insecure-deploy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: insecure
+  template:
+    metadata:
+      labels:
+        app: insecure
+    spec:
+      containers:
+        - name: insecure
+          image: python:3.7-slim
+          securityContext:
+            privileged: true
+          env:
+            - name: SECRET_KEY
+              value: "hardcoded_secret"
